@@ -1,0 +1,722 @@
+year,rank,name,age,country,position,club,points,trophies_league,trophies_ucl,trophies_uel,trophies_world_cup,trophies_euro,trophies_copa_america,trophies_afcon,trophies_cup,trophies_total,ucl_stage,intl_stage,vote_share,top3,winner,season_based
+2000,1,Luís Figo,28,Portugal,forward,Real Madrid,197.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.257516339869281,1,1,0
+2000,2,Zinedine Zidane,28,France,midfielder,Juventus,181.0,,0,0,0,1,0,0,0.0,,,6.0,0.23660130718954248,1,0,0
+2000,3,Andriy Shevchenko,24,Ukraine,forward,AC Milan,85.0,,0,0,0,0,0,0,0.0,,,0.0,0.1111111111111111,1,0,0
+2000,4,Thierry Henry,23,France,forward,Arsenal,57.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.07450980392156863,0,0,0
+2000,5,Alessandro Nesta,24,Italy,defender,Lazio,39.0,1.0,0,0,0,0,0,0,2.0,3.0,,,0.050980392156862744,0,0,0
+2000,6,Rivaldo,28,Brazil,midfielder,Barcelona,39.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.050980392156862744,0,0,0
+2000,7,Gabriel Batistuta,31,Argentina,forward,Roma,26.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.03398692810457516,0,0,0
+2000,8,Gaizka Mendieta,26,Spain,midfielder,Valencia,22.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.02875816993464052,0,0,0
+2000,9,Raúl,23,Spain,forward,Real Madrid,18.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,,0.023529411764705882,0,0,0
+2000,10,Paolo Maldini,32,Italy,defender,AC Milan,10.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.013071895424836602,0,0,0
+2000,10,David Beckham,25,England,midfielder,Manchester United,10.0,1.0,0,0,0,0,0,0,0.0,1.0,,,0.013071895424836602,0,0,0
+2000,12,Zlatko Zahovič,29,Slovenia,midfielder,Valencia,8.0,1.0,0,0,0,0,0,0,0.0,1.0,,,0.01045751633986928,0,0,0
+2000,12,Fabien Barthez,29,France,goalkeeper,Manchester United,8.0,1.0,0,0,0,1,0,0,0.0,2.0,,6.0,0.01045751633986928,0,0,0
+2000,14,Francesco Toldo,29,Italy,goalkeeper,Fiorentina,7.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.009150326797385621,0,0,0
+2000,14,Francesco Totti,24,Italy,midfielder,Roma,7.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.009150326797385621,0,0,0
+2000,14,Roberto Carlos,27,Brazil,defender,Real Madrid,7.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,0.0,0.009150326797385621,0,0,0
+2000,17,Patrick Kluivert,24,Netherlands,forward,Barcelona,6.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.00784313725490196,0,0,0
+2000,18,Edgar Davids,27,Netherlands,midfielder,Juventus,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.006535947712418301,0,0,0
+2000,18,Hakan Şükür,29,Turkey,forward,Inter Milan,5.0,,0,1,0,0,0,0,1.0,,,,0.006535947712418301,0,0,0
+2000,18,Mário Jardel,27,Brazil,forward,Galatasaray,5.0,0.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.006535947712418301,0,0,0
+2000,18,Fernando Redondo,31,Argentina,midfielder,AC Milan,5.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,0.0,0.006535947712418301,0,0,0
+2000,22,Pavel Nedvěd,28,Czech Republic,midfielder,Lazio,4.0,1.0,0,0,0,0,0,0,2.0,3.0,,,0.00522875816993464,0,0,0
+2000,22,David Trezeguet,23,France,forward,Juventus,4.0,1.0,0,0,0,1,0,0,0.0,2.0,,6.0,0.00522875816993464,0,0,0
+2000,24,Marcel Desailly,32,France,defender,Chelsea,2.0,0.0,0,0,0,1,0,0,2.0,3.0,,6.0,0.00261437908496732,0,0,0
+2000,24,Oliver Kahn,31,Germany,goalkeeper,Bayern Munich,2.0,1.0,0,0,0,0,0,0,2.0,3.0,,,0.00261437908496732,0,0,0
+2000,24,Rui Costa,28,Portugal,midfielder,Fiorentina,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.00261437908496732,0,0,0
+2000,27,Laurent Blanc,35,France,defender,Inter Milan,1.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.00130718954248366,0,0,0
+2000,27,Claudio López,26,Argentina,forward,Lazio,1.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.00130718954248366,0,0,0
+2000,27,Roy Keane,29,Republic of Ireland,midfielder,Manchester United,1.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.00130718954248366,0,0,0
+2000,27,Juan Sebastián Verón,25,Argentina,midfielder,Lazio,1.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.00130718954248366,0,0,0
+2001,1,Michael Owen,22,England,forward,Liverpool,176.0,0.0,0,1,0,0,0,0,3.0,5.0,,0.0,0.23006535947712417,1,1,0
+2001,2,Raúl,24,Spain,forward,Real Madrid,140.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.1830065359477124,1,0,0
+2001,3,Oliver Kahn,32,Germany,goalkeeper,Bayern Munich,114.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.14901960784313725,1,0,0
+2001,4,David Beckham,26,England,midfielder,Manchester United,102.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.13333333333333333,0,0,0
+2001,5,Francesco Totti,25,Italy,midfielder,Roma,57.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.07450980392156863,0,0,0
+2001,6,Luís Figo,29,Portugal,forward,Real Madrid,56.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.07320261437908497,0,0,0
+2001,7,Rivaldo,29,Brazil,midfielder,Barcelona,20.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.026143790849673203,0,0,0
+2001,8,Andriy Shevchenko,25,Ukraine,forward,AC Milan,18.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.023529411764705882,0,0,0
+2001,9,Thierry Henry,24,France,forward,Arsenal,14.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.018300653594771243,0,0,0
+2001,9,Zinedine Zidane,29,France,midfielder,Real Madrid,14.0,,0,0,0,0,0,0,1.0,,,0.0,0.018300653594771243,0,0,0
+2001,11,Bixente Lizarazu,32,France,defender,Bayern Munich,10.0,1.0,1,0,0,0,0,0,0.0,3.0,6.0,0.0,0.013071895424836602,0,0,0
+2001,12,David Trezeguet,24,France,forward,Juventus,7.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.009150326797385621,0,0,0
+2001,13,Stefan Effenberg,33,Germany,midfielder,Bayern Munich,6.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.00784313725490196,0,0,0
+2001,14,Henrik Larsson,30,Sweden,forward,Celtic,4.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.00522875816993464,0,0,0
+2001,14,Alessandro Nesta,25,Italy,defender,Lazio,4.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.00522875816993464,0,0,0
+2001,16,Juan Sebastián Verón,26,Argentina,midfielder,Manchester United,3.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.00392156862745098,0,0,0
+2001,16,Hernán Crespo,26,Argentina,forward,Lazio,3.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.00392156862745098,0,0,0
+2001,18,Giovane Élber,29,Brazil,forward,Bayern Munich,2.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.00261437908496732,0,0,0
+2001,18,Gaizka Mendieta,27,Spain,midfielder,Lazio,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.00261437908496732,0,0,0
+2001,18,Roberto Carlos,28,Brazil,defender,Real Madrid,2.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.00261437908496732,0,0,0
+2001,18,Damiano Tommasi,27,Italy,midfielder,Roma,2.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.00261437908496732,0,0,0
+2001,18,Sami Hyypiä,28,Finland,defender,Liverpool,2.0,1.0,0,1,0,0,0,0,3.0,6.0,,0.0,0.00261437908496732,0,0,0
+2001,18,Emmanuel Olisadebe,22,Poland,forward,Panathinaikos,2.0,,0,0,0,0,0,0,,,,0.0,0.00261437908496732,0,0,0
+2001,18,Ebbe Sand,29,Denmark,forward,Schalke 04,2.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.00261437908496732,0,0,0
+2001,25,Roberto Baggio,34,Italy,forward,Brescia,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.00130718954248366,0,0,0
+2001,25,Steven Gerrard,21,England,midfielder,Liverpool,1.0,0.0,0,1,0,0,0,0,2.0,4.0,,0.0,0.00130718954248366,0,0,0
+2001,25,Rui Costa,29,Portugal,midfielder,AC Milan,1.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.00130718954248366,0,0,0
+2002,1,Ronaldo,26,Brazil,forward,Real Madrid,169.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.21666666666666667,1,1,0
+2002,2,Roberto Carlos,29,Brazil,defender,Real Madrid,145.0,0.0,1,0,1,0,0,0,0.0,3.0,6.0,6.0,0.1858974358974359,1,0,0
+2002,3,Oliver Kahn,33,Germany,goalkeeper,Bayern Munich,110.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.14102564102564102,1,0,0
+2002,4,Zinedine Zidane,30,France,midfielder,Real Madrid,78.0,,1,0,0,0,0,0,0.0,,6.0,1.0,0.1,0,0,0
+2002,5,Michael Ballack,26,Germany,midfielder,Bayern Munich,71.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.09102564102564102,0,0,0
+2002,6,Thierry Henry,25,France,forward,Arsenal,54.0,1.0,0,0,0,0,0,0,2.0,3.0,,1.0,0.06923076923076923,0,0,0
+2002,7,Raúl,25,Spain,forward,Real Madrid,38.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,3.0,0.04871794871794872,0,0,0
+2002,8,Rivaldo,30,Brazil,midfielder,AC Milan,31.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.03974358974358974,0,0,0
+2002,9,Yıldıray Baştürk,23,Turkey,midfielder,Bayer Leverkusen,13.0,0.0,0,0,0,0,0,0,0.0,0.0,,4.0,0.016666666666666666,0,0,0
+2002,10,Alessandro Del Piero,28,Italy,forward,Juventus,12.0,1.0,0,0,0,0,0,0,1.0,2.0,,2.0,0.015384615384615385,0,0,0
+2002,11,Hasan Şaş,26,Turkey,forward,Galatasaray,10.0,,0,0,0,0,0,0,0.0,,,4.0,0.01282051282051282,0,0,0
+2002,12,Ronaldinho,22,Brazil,midfielder,Paris Saint-Germain,8.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.010256410256410256,0,0,0
+2002,13,Michael Owen,22,England,forward,Liverpool,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.00641025641025641,0,0,0
+2002,13,Ruud van Nistelrooy,26,Netherlands,forward,Manchester United,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.00641025641025641,0,0,0
+2002,15,Bernd Schneider,29,Germany,midfielder,Bayer Leverkusen,4.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.005128205128205128,0,0,0
+2002,15,Juan Carlos Valerón,27,Spain,midfielder,Deportivo La Coruña,4.0,0.0,0,0,0,0,0,0,2.0,2.0,,3.0,0.005128205128205128,0,0,0
+2002,15,Cafu,32,Brazil,defender,Roma,4.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.005128205128205128,0,0,0
+2002,15,Patrick Vieira,26,France,midfielder,Arsenal,4.0,1.0,0,0,0,0,0,0,2.0,3.0,,1.0,0.005128205128205128,0,0,0
+2002,19,Lúcio,24,Brazil,defender,Bayer Leverkusen,3.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.0038461538461538464,0,0,0
+2002,19,Luís Figo,30,Portugal,forward,Real Madrid,3.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,1.0,0.0038461538461538464,0,0,0
+2002,21,Papa Bouba Diop,24,Senegal,midfielder,Lens,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.002564102564102564,0,0,0
+2002,21,El Hadji Diouf,21,Senegal,forward,Liverpool,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.002564102564102564,0,0,0
+2002,21,Rio Ferdinand,24,England,defender,Manchester United,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.002564102564102564,0,0,0
+2002,24,Rubén Baraja,27,Spain,midfielder,Valencia,1.0,1.0,0,0,0,0,0,0,0.0,1.0,,3.0,0.001282051282051282,0,0,0
+2002,24,Filippo Inzaghi,29,Italy,forward,AC Milan,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,2.0,0.001282051282051282,0,0,0
+2002,24,Roy Makaay,27,Netherlands,forward,Deportivo La Coruña,1.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.001282051282051282,0,0,0
+2003,1,Pavel Nedvěd,31,Czech Republic,midfielder,Juventus,190.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.24358974358974358,1,1,0
+2003,2,Thierry Henry,26,France,forward,Arsenal,128.0,0.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.1641025641025641,1,0,0
+2003,3,Paolo Maldini,35,Italy,defender,AC Milan,123.0,0.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.1576923076923077,1,0,0
+2003,4,Andriy Shevchenko,27,Ukraine,forward,AC Milan,67.0,0.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.0858974358974359,0,0,0
+2003,5,Zinedine Zidane,31,France,midfielder,Real Madrid,64.0,,0,0,0,0,0,0,1.0,,,0.0,0.08205128205128205,0,0,0
+2003,6,Ruud van Nistelrooy,27,Netherlands,forward,Manchester United,61.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.0782051282051282,0,0,0
+2003,7,Raúl,26,Spain,forward,Real Madrid,32.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.041025641025641026,0,0,0
+2003,8,Roberto Carlos,30,Brazil,defender,Real Madrid,27.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.03461538461538462,0,0,0
+2003,9,Gianluigi Buffon,25,Italy,goalkeeper,Juventus,19.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.02435897435897436,0,0,0
+2003,10,David Beckham,28,England,midfielder,Real Madrid,17.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.021794871794871794,0,0,0
+2003,11,Ronaldo,27,Brazil,forward,Real Madrid,11.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.014102564102564103,0,0,0
+2003,12,Henrik Larsson,32,Sweden,forward,Celtic,6.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.007692307692307693,0,0,0
+2003,13,Alessandro Del Piero,29,Italy,forward,Juventus,4.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.005128205128205128,0,0,0
+2003,13,Dida,30,Brazil,goalkeeper,AC Milan,4.0,0.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.005128205128205128,0,0,0
+2003,13,Roy Makaay,28,Netherlands,forward,Bayern Munich,4.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.005128205128205128,0,0,0
+2003,13,Alessandro Nesta,27,Italy,defender,AC Milan,4.0,0.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.005128205128205128,0,0,0
+2003,13,Deco,26,Portugal,midfielder,Porto,4.0,1.0,0,1,0,0,0,0,2.0,4.0,,0.0,0.005128205128205128,0,0,0
+2003,18,Nihat Kahveci,24,Turkey,forward,Real Sociedad,3.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0038461538461538464,0,0,0
+2003,18,Francesco Totti,27,Italy,midfielder,Roma,3.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0038461538461538464,0,0,0
+2003,20,Michael Ballack,27,Germany,midfielder,Bayern Munich,2.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.002564102564102564,0,0,0
+2003,20,Zlatan Ibrahimović,22,Sweden,forward,Ajax,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.002564102564102564,0,0,0
+2003,22,Filippo Inzaghi,30,Italy,forward,AC Milan,1.0,0.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.001282051282051282,0,0,0
+2003,22,Jan Koller,30,Czech Republic,forward,Borussia Dortmund,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.001282051282051282,0,0,0
+2003,22,Adrian Mutu,24,Romania,forward,Chelsea,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.001282051282051282,0,0,0
+2003,22,Ronaldinho,23,Brazil,midfielder,Barcelona,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.001282051282051282,0,0,0
+2003,22,Francesco Toldo,32,Italy,goalkeeper,Inter Milan,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.001282051282051282,0,0,0
+2004,1,Andriy Shevchenko,28,Ukraine,forward,AC Milan,175.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.22435897435897437,1,1,0
+2004,2,Deco,27,Portugal,midfielder,Barcelona,139.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,5.0,0.1782051282051282,1,0,0
+2004,3,Ronaldinho,24,Brazil,midfielder,Barcelona,133.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.17051282051282052,1,0,0
+2004,4,Thierry Henry,27,France,forward,Arsenal,80.0,1.0,0,0,0,0,0,0,1.0,2.0,,3.0,0.10256410256410256,0,0,0
+2004,5,Theodoros Zagorakis,33,Greece,midfielder,Bologna,44.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.05641025641025641,0,0,0
+2004,6,Adriano,22,Brazil,forward,Inter Milan,27.0,0.0,0,0,0,0,1,0,0.0,1.0,,6.0,0.03461538461538462,0,0,0
+2004,7,Pavel Nedvěd,32,Czech Republic,midfielder,Juventus,23.0,0.0,0,0,0,0,0,0,0.0,0.0,,4.0,0.029487179487179487,0,0,0
+2004,8,Wayne Rooney,19,England,forward,Manchester United,22.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.028205128205128206,0,0,0
+2004,9,Ricardo Carvalho,26,Portugal,defender,Chelsea,18.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.023076923076923078,0,0,0
+2004,9,Ruud van Nistelrooy,28,Netherlands,forward,Manchester United,18.0,0.0,0,0,0,0,0,0,1.0,1.0,,4.0,0.023076923076923078,0,0,0
+2004,11,Angelos Charisteas,24,Greece,forward,Werder Bremen,15.0,2.0,0,0,0,0,0,0,,,,6.0,0.019230769230769232,0,0,0
+2004,12,Cristiano Ronaldo,19,Portugal,forward,Manchester United,11.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.014102564102564103,0,0,0
+2004,12,Milan Baroš,23,Czech Republic,forward,Liverpool,11.0,0.0,0,0,0,0,0,0,0.0,0.0,,4.0,0.014102564102564103,0,0,0
+2004,14,Zlatan Ibrahimović,23,Sweden,forward,Juventus,8.0,1.0,0,0,0,1,0,0,0.0,2.0,,6.0,0.010256410256410256,0,0,0
+2004,15,Samuel Eto'o,23,Cameroon,forward,Barcelona,7.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.008974358974358974,0,0,0
+2004,15,Kaká,22,Brazil,midfielder,AC Milan,7.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.008974358974358974,0,0,0
+2004,17,Traianos Dellas,28,Greece,defender,Roma,5.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.00641025641025641,0,0,0
+2004,17,Fernando Morientes,28,Spain,forward,Real Madrid,5.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,1.0,0.00641025641025641,0,0,0
+2004,17,Frank Lampard,26,England,midfielder,Chelsea,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.00641025641025641,0,0,0
+2004,17,Didier Drogba,26,Ivory Coast,forward,Chelsea,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.00641025641025641,0,0,0
+2004,17,Gianluigi Buffon,26,Italy,goalkeeper,Juventus,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,1.0,0.00641025641025641,0,0,0
+2004,22,Luís Figo,32,Portugal,forward,Real Madrid,4.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.005128205128205128,0,0,0
+2004,23,Zinedine Zidane,32,France,midfielder,Real Madrid,3.0,,0,0,0,0,0,0,0.0,,,3.0,0.0038461538461538464,0,0,0
+2004,24,Rubén Baraja,29,Spain,midfielder,Valencia,2.0,1.0,0,1,0,0,0,0,0.0,3.0,,1.0,0.002564102564102564,0,0,0
+2004,24,Ludovic Giuly,28,France,forward,Barcelona,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.002564102564102564,0,0,0
+2004,24,Maniche,27,Portugal,midfielder,Porto,2.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,5.0,0.002564102564102564,0,0,0
+2004,24,Antonios Nikopolidis,33,Greece,goalkeeper,Olympiacos,2.0,2.0,0,0,0,0,0,0,1.0,3.0,,6.0,0.002564102564102564,0,0,0
+2004,28,Paolo Maldini,36,Italy,defender,AC Milan,1.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.001282051282051282,0,0,0
+2004,28,Vicente,23,Spain,forward,Valencia,1.0,1.0,0,1,0,0,0,0,0.0,3.0,,1.0,0.001282051282051282,0,0,0
+2005,1,Ronaldinho,25,Brazil,midfielder,Barcelona,225.0,1.0,0,0,0,0,0,0,1.0,3.0,,0.0,0.28846153846153844,1,1,0
+2005,2,Frank Lampard,27,England,midfielder,Chelsea,148.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.18974358974358974,1,0,0
+2005,3,Steven Gerrard,25,England,midfielder,Liverpool,142.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,0.0,0.18205128205128204,1,0,0
+2005,4,Thierry Henry,28,France,forward,Arsenal,41.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.052564102564102565,0,0,0
+2005,5,Andriy Shevchenko,29,Ukraine,forward,AC Milan,33.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.04230769230769231,0,0,0
+2005,6,Paolo Maldini,37,Italy,defender,AC Milan,23.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.029487179487179487,0,0,0
+2005,7,Adriano,23,Brazil,forward,Inter Milan,22.0,0.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.028205128205128206,0,0,0
+2005,8,Zlatan Ibrahimović,24,Sweden,forward,Juventus,21.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.026923076923076925,0,0,0
+2005,9,Kaká,23,Brazil,midfielder,AC Milan,19.0,0.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.02435897435897436,0,0,0
+2005,10,Samuel Eto'o,24,Cameroon,forward,Barcelona,18.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.023076923076923078,0,0,0
+2005,10,John Terry,24,England,defender,Chelsea,18.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.023076923076923078,0,0,0
+2005,12,Juninho,30,Brazil,midfielder,Lyon,15.0,1.0,0,0,0,0,0,0,1.0,3.0,,0.0,0.019230769230769232,0,0,0
+2005,13,Claude Makélélé,32,France,midfielder,Chelsea,8.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.010256410256410256,0,0,0
+2005,14,Juan Román Riquelme,27,Argentina,midfielder,Villarreal,7.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.008974358974358974,0,0,0
+2005,14,Petr Čech,23,Czech Republic,goalkeeper,Chelsea,7.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.008974358974358974,0,0,0
+2005,14,Didier Drogba,27,Ivory Coast,forward,Chelsea,7.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.008974358974358974,0,0,0
+2005,14,Michael Ballack,29,Germany,midfielder,Bayern Munich,7.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.008974358974358974,0,0,0
+2005,18,Zinedine Zidane,33,France,midfielder,Real Madrid,5.0,,0,0,0,0,0,0,0.0,,,0.0,0.00641025641025641,0,0,0
+2005,19,Gianluigi Buffon,27,Italy,goalkeeper,Juventus,4.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.005128205128205128,0,0,0
+2005,20,Jamie Carragher,27,England,defender,Liverpool,3.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.0038461538461538464,0,0,0
+2005,20,Cristiano Ronaldo,20,Portugal,forward,Manchester United,3.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0038461538461538464,0,0,0
+2005,22,Michael Essien,22,Ghana,midfielder,Chelsea,2.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.002564102564102564,0,0,0
+2005,23,Luis García,27,Spain,forward,Liverpool,1.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.001282051282051282,0,0,0
+2005,23,Pavel Nedvěd,33,Czech Republic,midfielder,Juventus,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.001282051282051282,0,0,0
+2006,1,Fabio Cannavaro,33,Italy,defender,Real Madrid,173.0,1.0,0,0,1,0,0,0,0.0,2.0,,6.0,0.22179487179487178,1,1,0
+2006,2,Gianluigi Buffon,28,Italy,goalkeeper,Juventus,124.0,1.0,0,0,1,0,0,0,0.0,2.0,,6.0,0.15897435897435896,1,0,0
+2006,3,Thierry Henry,29,France,forward,Arsenal,121.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.15512820512820513,1,0,0
+2006,4,Ronaldinho,26,Brazil,midfielder,Barcelona,73.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.09358974358974359,0,0,0
+2006,5,Zinedine Zidane,34,France,midfielder,Real Madrid,71.0,,0,0,0,0,0,0,0.0,,,5.0,0.09102564102564102,0,0,0
+2006,6,Samuel Eto'o,25,Cameroon,forward,Barcelona,67.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,,0.0858974358974359,0,0,0
+2006,7,Miroslav Klose,28,Germany,forward,Werder Bremen,29.0,0.0,0,0,0,0,0,0,1.0,1.0,,4.0,0.03717948717948718,0,0,0
+2006,8,Didier Drogba,28,Ivory Coast,forward,Chelsea,25.0,1.0,0,0,0,0,0,0,0.0,1.0,,,0.03205128205128205,0,0,0
+2006,9,Andrea Pirlo,27,Italy,midfielder,AC Milan,17.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.021794871794871794,0,0,0
+2006,10,Jens Lehmann,37,Germany,goalkeeper,Arsenal,13.0,0.0,0,0,0,0,0,0,0.0,0.0,,4.0,0.016666666666666666,0,0,0
+2006,11,Deco,29,Portugal,midfielder,Barcelona,11.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,4.0,0.014102564102564103,0,0,0
+2006,11,Kaká,24,Brazil,midfielder,AC Milan,11.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.014102564102564103,0,0,0
+2006,13,Franck Ribéry,23,France,forward,Marseille,9.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.011538461538461539,0,0,0
+2006,14,Gennaro Gattuso,28,Italy,midfielder,AC Milan,5.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.00641025641025641,0,0,0
+2006,14,Patrick Vieira,30,France,midfielder,Inter Milan,5.0,0.0,0,0,0,0,0,0,1.0,1.0,,5.0,0.00641025641025641,0,0,0
+2006,14,Cristiano Ronaldo,21,Portugal,forward,Manchester United,5.0,0.0,0,0,0,0,0,0,1.0,1.0,,4.0,0.00641025641025641,0,0,0
+2006,17,Frank Lampard,28,England,midfielder,Chelsea,3.0,1.0,0,0,0,0,0,0,0.0,1.0,,3.0,0.0038461538461538464,0,0,0
+2006,17,Lukas Podolski,21,Germany,forward,Bayern Munich,3.0,0.0,0,0,0,0,0,0,0.0,0.0,,4.0,0.0038461538461538464,0,0,0
+2006,17,Carles Puyol,28,Spain,defender,Barcelona,3.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,2.0,0.0038461538461538464,0,0,0
+2006,20,Juninho,31,Brazil,midfielder,Lyon,2.0,1.0,0,0,0,0,0,0,0.0,1.0,,3.0,0.002564102564102564,0,0,0
+2006,20,Lionel Messi,19,Argentina,forward,Barcelona,2.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.002564102564102564,0,0,0
+2006,20,Luca Toni,29,Italy,forward,Fiorentina,2.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.002564102564102564,0,0,0
+2006,20,John Terry,25,England,defender,Chelsea,2.0,1.0,0,0,0,0,0,0,0.0,1.0,,3.0,0.002564102564102564,0,0,0
+2006,20,Gianluca Zambrotta,29,Italy,defender,Barcelona,2.0,0.0,0,0,1,0,0,0,1.0,2.0,,6.0,0.002564102564102564,0,0,0
+2006,25,Philipp Lahm,23,Germany,defender,Bayern Munich,1.0,1.0,0,0,0,0,0,0,1.0,2.0,,4.0,0.001282051282051282,0,0,0
+2006,25,David Villa,24,Spain,forward,Valencia,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,2.0,0.001282051282051282,0,0,0
+2007,1,Kaká,25,Brazil,midfielder,AC Milan,444.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.3079056865464632,1,1,0
+2007,2,Cristiano Ronaldo,22,Portugal,forward,Manchester United,277.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.19209431345353675,1,0,0
+2007,3,Lionel Messi,20,Argentina,forward,Barcelona,255.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.1768377253814147,1,0,0
+2007,4,Didier Drogba,29,Ivory Coast,forward,Chelsea,108.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.07489597780859916,0,0,0
+2007,5,Andrea Pirlo,28,Italy,midfielder,AC Milan,41.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.028432732316227463,0,0,0
+2007,6,Ruud van Nistelrooy,31,Netherlands,forward,Real Madrid,39.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.027045769764216365,0,0,0
+2007,7,Zlatan Ibrahimović,26,Sweden,forward,Inter Milan,31.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.021497919556171984,0,0,0
+2007,8,Cesc Fàbregas,20,Spain,midfielder,Arsenal,27.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.01872399445214979,0,0,0
+2007,9,Robinho,23,Brazil,forward,Real Madrid,24.0,1.0,0,0,0,0,1,0,0.0,2.0,,6.0,0.016643550624133148,0,0,0
+2007,10,Francesco Totti,31,Italy,midfielder,Roma,20.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.013869625520110958,0,0,0
+2007,11,Frédéric Kanouté,30,Mali,forward,Sevilla,19.0,0.0,0,1,0,0,0,0,2.0,3.0,,0.0,0.013176144244105409,0,0,0
+2007,12,Ronaldinho,27,Brazil,midfielder,Barcelona,18.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.012482662968099861,0,0,0
+2007,13,Steven Gerrard,27,England,midfielder,Liverpool,17.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.011789181692094313,0,0,0
+2007,14,Juan Román Riquelme,29,Argentina,midfielder,Boca Juniors,15.0,0.0,0,0,0,0,0,0,1.0,1.0,,,0.010402219140083218,0,0,0
+2007,15,Dani Alves,24,Brazil,defender,Sevilla,14.0,0.0,0,1,0,0,1,0,2.0,4.0,,6.0,0.009708737864077669,0,0,0
+2007,16,Filippo Inzaghi,34,Italy,forward,AC Milan,12.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.008321775312066574,0,0,0
+2007,17,Franck Ribéry,24,France,forward,Bayern Munich,10.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.006934812760055479,0,0,0
+2007,18,Paolo Maldini,39,Italy,defender,AC Milan,8.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.005547850208044383,0,0,0
+2007,19,Gianluigi Buffon,29,Italy,goalkeeper,Juventus,7.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.0048543689320388345,0,0,0
+2007,19,Petr Čech,25,Czech Republic,goalkeeper,Chelsea,7.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.0048543689320388345,0,0,0
+2007,19,Gennaro Gattuso,29,Italy,midfielder,AC Milan,7.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.0048543689320388345,0,0,0
+2007,19,Thierry Henry,30,France,forward,Barcelona,7.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0048543689320388345,0,0,0
+2007,19,Clarence Seedorf,31,Netherlands,midfielder,AC Milan,7.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.0048543689320388345,0,0,0
+2007,24,Fabio Cannavaro,34,Italy,defender,Real Madrid,5.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.0034674063800277394,0,0,0
+2007,24,Michael Essien,24,Ghana,midfielder,Chelsea,5.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.0034674063800277394,0,0,0
+2007,26,Wayne Rooney,22,England,forward,Manchester United,4.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.0027739251040221915,0,0,0
+2007,27,Iker Casillas,26,Spain,goalkeeper,Real Madrid,3.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.0020804438280166435,0,0,0
+2007,27,Rogério Ceni,34,Brazil,goalkeeper,São Paulo,3.0,,0,0,0,0,0,0,0.0,,,0.0,0.0020804438280166435,0,0,0
+2007,29,Younis Mahmoud,24,Iraq,forward,Al-Gharafa,2.0,,0,0,0,0,0,0,,,,0.0,0.0013869625520110957,0,0,0
+2007,30,Guillermo Ochoa,22,Mexico,goalkeeper,América,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.0006934812760055479,0,0,0
+2007,30,Dimitar Berbatov,26,Bulgaria,forward,Tottenham Hotspur,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0006934812760055479,0,0,0
+2007,30,Samuel Eto'o,26,Cameroon,forward,Barcelona,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0006934812760055479,0,0,0
+2007,30,Ryan Giggs,34,Wales,midfielder,Manchester United,1.0,,0,0,0,0,0,0,1.0,,,0.0,0.0006934812760055479,0,0,0
+2007,30,Carlos Tevez,23,Argentina,forward,Manchester United,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.0006934812760055479,0,0,0
+2007,30,Robin van Persie,24,Netherlands,forward,Arsenal,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0006934812760055479,0,0,0
+2008,1,Cristiano Ronaldo,23,Portugal,forward,Manchester United,446.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,3.0,0.3101529902642559,1,1,0
+2008,2,Lionel Messi,21,Argentina,forward,Barcelona,281.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.19541029207232266,1,0,0
+2008,3,Fernando Torres,24,Spain,forward,Liverpool,179.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.12447844228094576,1,0,0
+2008,4,Iker Casillas,27,Spain,goalkeeper,Real Madrid,133.0,1.0,0,0,0,1,0,0,1.0,3.0,,6.0,0.09248956884561892,0,0,0
+2008,5,Xavi,28,Spain,midfielder,Barcelona,97.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.0674547983310153,0,0,0
+2008,6,Andrey Arshavin,27,Russia,forward,Zenit Saint Petersburg,64.0,0.0,0,1,0,1,0,0,1.0,4.0,,6.0,0.04450625869262865,0,0,0
+2008,7,David Villa,26,Spain,forward,Valencia,55.0,0.0,0,0,0,1,0,0,1.0,2.0,,6.0,0.03824756606397774,0,0,0
+2008,8,Zlatan Ibrahimović,27,Sweden,forward,Inter Milan,30.0,1.0,0,0,0,1,0,0,1.0,3.0,,6.0,0.02086230876216968,0,0,0
+2008,9,Kaká,26,Brazil,midfielder,AC Milan,29.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.020166898470097356,0,0,0
+2008,10,Steven Gerrard,28,England,midfielder,Liverpool,28.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.019471488178025034,0,0,0
+2008,11,Marcos Senna,32,Spain,midfielder,Villarreal,16.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.011126564673157162,0,0,0
+2008,12,Emmanuel Adebayor,24,Togo,forward,Arsenal,12.0,,0,0,0,0,0,0,0.0,,,0.0,0.008344923504867872,0,0,0
+2008,13,Wayne Rooney,23,England,forward,Manchester United,11.0,1.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.0076495132127955496,0,0,0
+2008,14,Sergio Agüero,20,Argentina,forward,Atlético Madrid,10.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.006954102920723227,0,0,0
+2008,15,Frank Lampard,30,England,midfielder,Chelsea,8.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.005563282336578581,0,0,0
+2008,16,Franck Ribéry,25,France,forward,Bayern Munich,7.0,1.0,0,0,0,0,0,0,1.0,2.0,,1.0,0.004867872044506259,0,0,0
+2008,17,Samuel Eto'o,27,Cameroon,forward,Barcelona,6.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.004172461752433936,0,0,0
+2008,18,Gianluigi Buffon,30,Italy,goalkeeper,Juventus,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.0034770514603616135,0,0,0
+2008,19,Michael Ballack,32,Germany,midfielder,Chelsea,4.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,5.0,0.0027816411682892906,0,0,0
+2008,19,Cesc Fàbregas,21,Spain,midfielder,Arsenal,4.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.0027816411682892906,0,0,0
+2008,21,Didier Drogba,30,Ivory Coast,forward,Chelsea,3.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.002086230876216968,0,0,0
+2008,21,Sergio Ramos,22,Spain,defender,Real Madrid,3.0,1.0,0,0,0,1,0,0,1.0,3.0,,6.0,0.002086230876216968,0,0,0
+2008,21,Nemanja Vidić,27,Serbia,defender,Manchester United,3.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.002086230876216968,0,0,0
+2008,24,Edwin van der Sar,38,Netherlands,goalkeeper,Manchester United,2.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.0013908205841446453,0,0,0
+2008,24,Ruud van Nistelrooy,32,Netherlands,forward,Real Madrid,2.0,1.0,0,0,0,0,0,0,1.0,2.0,,3.0,0.0013908205841446453,0,0,0
+2008,26,Karim Benzema,20,France,forward,Lyon,0.0,1.0,0,0,0,0,0,0,1.0,2.0,,1.0,0.0,0,0,0
+2008,26,Pepe,25,Portugal,defender,Real Madrid,0.0,1.0,0,0,0,0,0,0,1.0,2.0,,3.0,0.0,0,0,0
+2008,26,Luca Toni,31,Italy,forward,Bayern Munich,0.0,1.0,0,0,0,0,0,0,1.0,2.0,,3.0,0.0,0,0,0
+2008,26,Rafael van der Vaart,25,Netherlands,midfielder,Real Madrid,0.0,0.0,0,0,0,0,0,0,1.0,1.0,,3.0,0.0,0,0,0
+2008,26,Yuri Zhirkov,25,Russia,defender,CSKA Moscow,0.0,0.0,0,0,0,1,0,0,1.0,2.0,,6.0,0.0,0,0,0
+2009,1,Lionel Messi,22,Argentina,forward,Barcelona,473.0,1.0,1,0,0,0,0,0,2.0,5.0,6.0,0.0,0.3284722222222222,1,1,0
+2009,2,Cristiano Ronaldo,24,Portugal,forward,Real Madrid,233.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.16180555555555556,1,0,0
+2009,3,Xavi,29,Spain,midfielder,Barcelona,170.0,1.0,1,0,0,0,0,0,2.0,5.0,6.0,0.0,0.11805555555555555,1,0,0
+2009,4,Andrés Iniesta,25,Spain,midfielder,Barcelona,149.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.10347222222222222,0,0,0
+2009,5,Samuel Eto'o,28,Cameroon,forward,Inter Milan,75.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.052083333333333336,0,0,0
+2009,6,Kaká,27,Brazil,midfielder,Real Madrid,58.0,0.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.04027777777777778,0,0,0
+2009,7,Zlatan Ibrahimović,28,Sweden,forward,Barcelona,50.0,1.0,0,0,0,0,0,0,,,,0.0,0.034722222222222224,0,0,0
+2009,8,Wayne Rooney,24,England,forward,Manchester United,35.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.024305555555555556,0,0,0
+2009,9,Didier Drogba,31,Ivory Coast,forward,Chelsea,33.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.022916666666666665,0,0,0
+2009,10,Steven Gerrard,29,England,midfielder,Liverpool,32.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.022222222222222223,0,0,0
+2009,11,Fernando Torres,25,Spain,forward,Liverpool,22.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.015277777777777777,0,0,0
+2009,12,Cesc Fàbregas,22,Spain,midfielder,Arsenal,13.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.009027777777777777,0,0,0
+2009,13,Edin Džeko,23,Bosnia and Herzegovina,forward,VfL Wolfsburg,12.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.008333333333333333,0,0,0
+2009,14,Ryan Giggs,36,Wales,midfielder,Manchester United,11.0,,0,0,0,0,0,0,1.0,,,0.0,0.007638888888888889,0,0,0
+2009,15,Thierry Henry,32,France,forward,Barcelona,9.0,1.0,1,0,0,0,0,0,2.0,5.0,6.0,0.0,0.00625,0,0,0
+2009,16,Luís Fabiano,29,Brazil,forward,Sevilla,8.0,0.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.005555555555555556,0,0,0
+2009,16,Nemanja Vidić,28,Serbia,defender,Manchester United,8.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.005555555555555556,0,0,0
+2009,16,Iker Casillas,28,Spain,goalkeeper,Real Madrid,8.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.005555555555555556,0,0,0
+2009,19,Diego Forlán,30,Uruguay,forward,Atlético Madrid,7.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.004861111111111111,0,0,0
+2009,20,Yoann Gourcuff,23,France,midfielder,Bordeaux,6.0,1.0,0,0,0,0,0,0,2.0,3.0,,0.0,0.004166666666666667,0,0,0
+2009,21,Andrey Arshavin,28,Russia,forward,Arsenal,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.003472222222222222,0,0,0
+2009,21,Júlio César,30,Brazil,goalkeeper,Inter Milan,5.0,1.0,0,0,0,0,0,0,0.0,2.0,,0.0,0.003472222222222222,0,0,0
+2009,21,Frank Lampard,31,England,midfielder,Chelsea,5.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.003472222222222222,0,0,0
+2009,24,Maicon,28,Brazil,defender,Inter Milan,4.0,1.0,0,0,0,0,0,0,0.0,2.0,,0.0,0.002777777777777778,0,0,0
+2009,25,Diego,24,Brazil,midfielder,Juventus,3.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.0020833333333333333,0,0,0
+2009,26,David Villa,27,Spain,forward,Valencia,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.001388888888888889,0,0,0
+2009,26,John Terry,28,England,defender,Chelsea,2.0,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.001388888888888889,0,0,0
+2009,28,Franck Ribéry,26,France,forward,Bayern Munich,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0006944444444444445,0,0,0
+2009,28,Yaya Touré,26,Ivory Coast,midfielder,Barcelona,1.0,1.0,1,0,0,0,0,0,2.0,5.0,6.0,0.0,0.0006944444444444445,0,0,0
+2009,30,Karim Benzema,21,France,forward,Real Madrid,0.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0,0,0,0
+2010,1,Lionel Messi,23,Argentina,forward,Barcelona,22.65,1.0,0,0,0,0,0,0,1.0,2.0,,3.0,0.22777554304102982,1,1,0
+2010,2,Andrés Iniesta,26,Spain,midfielder,Barcelona,17.36,1.0,0,0,1,0,0,0,1.0,3.0,,6.0,0.17457763475462595,1,0,0
+2010,3,Xavi,30,Spain,midfielder,Barcelona,16.48,1.0,0,0,1,0,0,0,1.0,3.0,,6.0,0.16572807723250207,1,0,0
+2010,4,Wesley Sneijder,26,Netherlands,midfielder,Inter Milan,14.48,1.0,1,0,0,0,0,0,2.0,4.0,6.0,5.0,0.1456154465004023,0,0,0
+2010,5,Diego Forlán,31,Uruguay,forward,Atlético Madrid,7.61,0.0,0,1,0,0,0,0,0.0,2.0,,4.0,0.0765285599356396,0,0,0
+2010,6,Cristiano Ronaldo,25,Portugal,forward,Real Madrid,3.92,0.0,0,0,0,0,0,0,0.0,0.0,,2.0,0.03942075623491554,0,0,0
+2010,7,Iker Casillas,29,Spain,goalkeeper,Real Madrid,2.9,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.029163314561544657,0,0,0
+2010,8,David Villa,29,Spain,forward,Barcelona,2.25,0.0,0,0,1,0,0,0,1.0,2.0,,6.0,0.022626709573612236,0,0,0
+2010,9,Didier Drogba,32,Ivory Coast,forward,Chelsea,1.68,1.0,0,0,0,0,0,0,1.0,2.0,,,0.016894609814963803,0,0,0
+2010,10,Xabi Alonso,29,Spain,midfielder,Real Madrid,1.52,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.015285599356395821,0,0,0
+2010,11,Carles Puyol,32,Spain,defender,Barcelona,1.43,1.0,0,0,1,0,0,0,1.0,3.0,,6.0,0.01438053097345133,0,0,0
+2010,12,Samuel Eto'o,29,Cameroon,forward,Inter Milan,1.37,1.0,1,0,0,0,0,0,2.0,4.0,6.0,,0.01377715205148834,0,0,0
+2010,13,Mesut Özil,22,Germany,midfielder,Real Madrid,1.21,0.0,0,0,0,0,0,0,0.0,0.0,,4.0,0.012168141592920357,0,0,0
+2010,14,Arjen Robben,26,Netherlands,forward,Bayern Munich,1.16,1.0,0,0,0,0,0,0,1.0,2.0,,5.0,0.011665325824617863,0,0,0
+2010,15,Thomas Müller,21,Germany,forward,Bayern Munich,0.91,1.0,0,0,0,0,0,0,2.0,3.0,,4.0,0.009151246983105394,0,0,0
+2010,16,Bastian Schweinsteiger,26,Germany,midfielder,Bayern Munich,0.75,1.0,0,0,0,0,0,0,2.0,3.0,,4.0,0.007542236524537412,0,0,0
+2010,17,Maicon,29,Brazil,defender,Inter Milan,0.57,1.0,1,0,0,0,0,0,2.0,4.0,6.0,3.0,0.005732099758648432,0,0,0
+2010,18,Asamoah Gyan,25,Ghana,forward,Sunderland,0.46,0.0,0,0,0,0,0,0,0.0,0.0,,,0.0046259050683829465,0,0,0
+2010,19,Júlio César,31,Brazil,goalkeeper,Inter Milan,0.22,1.0,1,0,0,0,0,0,2.0,4.0,6.0,3.0,0.0022123893805309743,0,0,0
+2010,20,Cesc Fàbregas,23,Spain,midfielder,Arsenal,0.22,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.0022123893805309743,0,0,0
+2010,21,Miroslav Klose,32,Germany,forward,Bayern Munich,0.19,1.0,0,0,0,0,0,0,2.0,3.0,,4.0,0.0019106999195494777,0,0,0
+2010,22,Philipp Lahm,27,Germany,defender,Bayern Munich,0.05,1.0,0,0,0,0,0,0,2.0,3.0,,4.0,0.0005028157683024941,0,0,0
+2010,23,Dani Alves,27,Brazil,defender,Barcelona,0.05,1.0,0,0,0,0,0,0,1.0,2.0,,3.0,0.0005028157683024941,0,0,0
+2011,1,Lionel Messi,24,Argentina,forward,Barcelona,47.88,1.0,1,0,0,0,0,0,1.0,4.0,6.0,3.0,0.4806746310611384,1,1,0
+2011,2,Cristiano Ronaldo,26,Portugal,forward,Real Madrid,21.6,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.21684569822306995,1,0,0
+2011,3,Xavi,31,Spain,midfielder,Barcelona,9.23,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.09266137937958036,1,0,0
+2011,4,Andrés Iniesta,27,Spain,midfielder,Barcelona,6.01,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.06033530770003011,0,0,0
+2011,5,Wayne Rooney,26,England,forward,Manchester United,2.31,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.02319044272663387,0,0,0
+2011,6,Luis Suárez,24,Uruguay,forward,Liverpool,1.48,1.0,0,0,0,0,1,0,0.0,2.0,,6.0,0.014857945989358495,0,0,0
+2011,7,Diego Forlán,32,Uruguay,forward,Inter Milan,1.43,0.0,0,0,0,0,1,0,0.0,1.0,,6.0,0.01435598835458287,0,0,0
+2011,8,Samuel Eto'o,30,Cameroon,forward,Anzhi Makhachkala,1.34,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.013452464611986747,0,0,0
+2011,9,Iker Casillas,30,Spain,goalkeeper,Real Madrid,1.29,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.012950506977211122,0,0,0
+2011,10,Neymar,19,Brazil,midfielder,Santos,1.12,1.0,0,0,0,0,0,0,,,,3.0,0.011243851018973999,0,0,0
+2011,11,Mesut Özil,23,Germany,midfielder,Real Madrid,0.76,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.0076297560485894984,0,0,0
+2011,12,Wesley Sneijder,27,Netherlands,midfielder,Inter Milan,0.72,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.007228189940768998,0,0,0
+2011,13,Thomas Müller,22,Germany,forward,Bayern Munich,0.64,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.006425057725127998,0,0,0
+2011,14,David Villa,30,Spain,forward,Barcelona,0.53,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.005320750928621624,0,0,0
+2011,15,Bastian Schweinsteiger,27,Germany,midfielder,Bayern Munich,0.5,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.005019576347756249,0,0,0
+2011,16,Xabi Alonso,30,Spain,midfielder,Real Madrid,0.48,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.004818793293845999,0,0,0
+2011,17,Sergio Agüero,23,Argentina,forward,Manchester City,0.48,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.004818793293845999,0,0,0
+2011,18,Eric Abidal,32,France,defender,Barcelona,0.36,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.003614094970384499,0,0,0
+2011,19,Dani Alves,28,Brazil,defender,Barcelona,0.34,1.0,1,0,0,0,0,0,1.0,4.0,6.0,3.0,0.0034133119164742494,0,0,0
+2011,20,Karim Benzema,24,France,forward,Real Madrid,0.34,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.0034133119164742494,0,0,0
+2011,21,Cesc Fàbregas,24,Spain,midfielder,Barcelona,0.29,0.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.002911354281698624,0,0,0
+2011,22,Nani,25,Portugal,forward,Manchester United,0.26,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.0026101797008332493,0,0,0
+2011,23,Gerard Piqué,24,Spain,defender,Barcelona,0.22,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.0022086135930127495,0,0,0
+2012,1,Lionel Messi,25,Argentina,forward,Barcelona,41.6,0.0,0,0,0,0,0,0,1.0,1.0,4.0,0.0,0.4164164164164164,1,1,0
+2012,2,Cristiano Ronaldo,27,Portugal,forward,Real Madrid,23.68,1.0,0,0,0,0,0,0,1.0,2.0,4.0,4.0,0.23703703703703702,1,0,0
+2012,3,Andrés Iniesta,28,Spain,midfielder,Barcelona,10.91,0.0,0,0,0,1,0,0,1.0,2.0,4.0,6.0,0.10920920920920921,1,0,0
+2012,4,Xavi,32,Spain,midfielder,Barcelona,4.08,0.0,0,0,0,1,0,0,1.0,2.0,4.0,6.0,0.04084084084084084,0,0,0
+2012,5,Radamel Falcao,26,Colombia,forward,Atlético Madrid,3.67,0.0,0,1,0,0,0,0,0.0,2.0,0.0,0.0,0.03673673673673673,0,0,0
+2012,6,Iker Casillas,31,Spain,goalkeeper,Real Madrid,3.18,1.0,0,0,0,1,0,0,1.0,3.0,4.0,6.0,0.03183183183183183,0,0,0
+2012,7,Andrea Pirlo,33,Italy,midfielder,Juventus,2.66,1.0,0,0,0,0,0,0,1.0,2.0,0.0,5.0,0.026626626626626626,0,0,0
+2012,8,Didier Drogba,34,Ivory Coast,forward,Shanghai Shenhua,2.6,0.0,1,0,0,0,0,0,1.0,2.0,6.0,,0.026026026026026026,0,0,0
+2012,9,Robin van Persie,29,Netherlands,forward,Manchester United,1.45,0.0,0,0,0,0,0,0,0.0,0.0,,1.0,0.014514514514514514,0,0,0
+2012,10,Zlatan Ibrahimović,31,Sweden,forward,Paris Saint-Germain,1.24,0.0,0,0,0,1,0,0,,,,6.0,0.012412412412412411,0,0,0
+2012,11,Xabi Alonso,31,Spain,midfielder,Real Madrid,1.09,1.0,0,0,0,1,0,0,1.0,3.0,4.0,6.0,0.01091091091091091,0,0,0
+2012,12,Yaya Touré,29,Ivory Coast,midfielder,Manchester City,0.76,1.0,0,0,0,0,0,0,1.0,2.0,0.0,,0.007607607607607607,0,0,0
+2012,13,Neymar,20,Brazil,midfielder,Santos,0.61,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.006106106106106106,0,0,0
+2012,14,Mesut Özil,24,Germany,midfielder,Real Madrid,0.41,1.0,0,0,0,0,0,0,1.0,2.0,4.0,4.0,0.004104104104104104,0,0,0
+2012,15,Wayne Rooney,27,England,forward,Manchester United,0.39,0.0,0,0,0,0,0,0,0.0,0.0,0.0,3.0,0.003903903903903904,0,0,0
+2012,16,Gianluigi Buffon,34,Italy,goalkeeper,Juventus,0.35,1.0,0,0,0,0,0,0,1.0,2.0,0.0,5.0,0.003503503503503503,0,0,0
+2012,17,Sergio Agüero,24,Argentina,forward,Manchester City,0.3,1.0,0,0,0,0,0,0,1.0,2.0,0.0,0.0,0.0030030030030030025,0,0,0
+2012,18,Sergio Ramos,26,Spain,defender,Real Madrid,0.22,1.0,0,0,0,1,0,0,1.0,3.0,4.0,6.0,0.002202202202202202,0,0,0
+2012,19,Manuel Neuer,26,Germany,goalkeeper,Bayern Munich,0.21,0.0,0,0,0,0,0,0,1.0,1.0,5.0,4.0,0.0021021021021021017,0,0,0
+2012,20,Sergio Busquets,24,Spain,midfielder,Barcelona,0.2,0.0,0,0,0,1,0,0,1.0,2.0,4.0,6.0,0.002002002002002002,0,0,0
+2012,21,Gerard Piqué,25,Spain,defender,Barcelona,0.11,0.0,0,0,0,1,0,0,1.0,2.0,4.0,6.0,0.001101101101101101,0,0,0
+2012,22,Karim Benzema,25,France,forward,Real Madrid,0.11,1.0,0,0,0,0,0,0,1.0,2.0,4.0,3.0,0.001101101101101101,0,0,0
+2012,23,Mario Balotelli,22,Italy,forward,Manchester City,0.07,1.0,0,0,0,0,0,0,0.0,1.0,0.0,5.0,0.0007007007007007008,0,0,0
+2013,1,Cristiano Ronaldo,28,Portugal,forward,Real Madrid,27.99,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.279816055183445,1,1,0
+2013,2,Lionel Messi,26,Argentina,forward,Barcelona,24.72,1.0,0,0,0,0,0,0,1.0,2.0,4.0,0.0,0.24712586224132763,1,0,0
+2013,3,Franck Ribéry,30,France,forward,Bayern Munich,23.36,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.23352994101769473,1,0,0
+2013,4,Zlatan Ibrahimović,32,Sweden,forward,Paris Saint-Germain,5.29,2.0,0,0,0,0,0,0,1.0,3.0,3.0,0.0,0.052884134759572134,0,0,0
+2013,5,Neymar,21,Brazil,midfielder,Barcelona,3.17,0.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.03169049285214436,0,0,0
+2013,6,Andrés Iniesta,29,Spain,midfielder,Barcelona,2.08,1.0,0,0,0,0,0,0,1.0,2.0,4.0,0.0,0.02079376187143857,0,0,0
+2013,7,Robin van Persie,30,Netherlands,forward,Manchester United,1.79,1.0,0,0,0,0,0,0,1.0,2.0,2.0,0.0,0.017894631610516847,0,0,0
+2013,8,Arjen Robben,29,Netherlands,forward,Bayern Munich,1.77,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.017694691592522245,0,0,0
+2013,9,Gareth Bale,24,Wales,forward,Real Madrid,1.32,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.01319604118764371,0,0,0
+2013,10,Andrea Pirlo,34,Italy,midfielder,Juventus,1.11,1.0,0,0,0,0,0,0,1.0,2.0,3.0,0.0,0.011096670998700393,0,0,0
+2013,11,Radamel Falcao,27,Colombia,forward,Monaco,1.08,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.010796760971708489,0,0,0
+2013,12,Yaya Touré,30,Ivory Coast,midfielder,Manchester City,0.99,0.0,0,0,0,0,0,0,0.0,0.0,0.0,,0.009897030890732782,0,0,0
+2013,13,Robert Lewandowski,25,Poland,forward,Borussia Dortmund,0.92,0.0,0,0,0,0,0,0,1.0,1.0,5.0,0.0,0.009197240827751677,0,0,0
+2013,14,Philipp Lahm,30,Germany,defender,Bayern Munich,0.82,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.008197540737778668,0,0,0
+2013,14,Xavi,33,Spain,midfielder,Barcelona,0.82,1.0,0,0,0,0,0,0,1.0,2.0,4.0,0.0,0.008197540737778668,0,0,0
+2013,16,Mesut Özil,25,Germany,midfielder,Arsenal,0.71,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.007097870638808358,0,0,0
+2013,17,Bastian Schweinsteiger,29,Germany,midfielder,Bayern Munich,0.43,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.004298710386883935,0,0,0
+2013,17,Thomas Müller,24,Germany,forward,Bayern Munich,0.43,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.004298710386883935,0,0,0
+2013,19,Luis Suárez,26,Uruguay,forward,Liverpool,0.39,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0038988303508947324,0,0,0
+2013,20,Edinson Cavani,26,Uruguay,forward,Paris Saint-Germain,0.36,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0035989203239028293,0,0,0
+2013,21,Thiago Silva,29,Brazil,defender,Paris Saint-Germain,0.24,1.0,0,0,0,0,0,0,1.0,3.0,3.0,0.0,0.0023992802159352195,0,0,0
+2013,22,Eden Hazard,23,Belgium,forward,Chelsea,0.16,0.0,0,1,0,0,0,0,0.0,1.0,0.0,0.0,0.0015995201439568132,0,0,0
+2013,23,Manuel Neuer,27,Germany,goalkeeper,Bayern Munich,0.08,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.0007997600719784066,0,0,0
+2014,1,Cristiano Ronaldo,29,Portugal,forward,Real Madrid,37.66,0.0,1,0,0,0,0,0,1.0,3.0,6.0,1.0,0.3766,1,1,0
+2014,2,Lionel Messi,27,Argentina,forward,Barcelona,15.76,0.0,0,0,0,0,0,0,0.0,0.0,3.0,5.0,0.1576,1,0,0
+2014,3,Manuel Neuer,28,Germany,goalkeeper,Bayern Munich,15.72,1.0,0,0,1,0,0,0,1.0,3.0,4.0,6.0,0.1572,1,0,0
+2014,4,Arjen Robben,30,Netherlands,forward,Bayern Munich,7.17,1.0,0,0,0,0,0,0,1.0,2.0,4.0,4.0,0.0717,0,0,0
+2014,5,Thomas Müller,25,Germany,forward,Bayern Munich,5.42,1.0,0,0,1,0,0,0,1.0,3.0,4.0,6.0,0.0542,0,0,0
+2014,6,Philipp Lahm,31,Germany,defender,Bayern Munich,2.9,1.0,0,0,1,0,0,0,1.0,3.0,4.0,6.0,0.028999999999999998,0,0,0
+2014,7,Neymar,22,Brazil,midfielder,Barcelona,2.21,0.0,0,0,0,0,0,0,0.0,0.0,3.0,4.0,0.022099999999999998,0,0,0
+2014,8,James Rodríguez,23,Colombia,midfielder,Real Madrid,1.47,0.0,0,0,0,0,0,0,0.0,1.0,,3.0,0.0147,0,0,0
+2014,9,Toni Kroos,25,Germany,midfielder,Real Madrid,1.43,1.0,0,0,1,0,0,0,1.0,4.0,,6.0,0.0143,0,0,0
+2014,10,Ángel Di María,26,Argentina,forward,Manchester United,1.29,0.0,1,0,1,0,0,0,1.0,4.0,6.0,6.0,0.0129,0,0,0
+2014,11,Diego Costa,26,Spain,forward,Chelsea,1.02,1.0,0,0,0,0,0,0,0.0,1.0,,1.0,0.0102,0,0,0
+2014,12,Gareth Bale,25,Wales,forward,Real Madrid,1.0,0.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.01,0,0,0
+2014,13,Zlatan Ibrahimović,33,Sweden,forward,Paris Saint-Germain,1.0,,0,0,0,0,0,0,2.0,,3.0,0.0,0.01,0,0,0
+2014,14,Yaya Touré,31,Ivory Coast,midfielder,Manchester City,0.86,1.0,0,0,0,0,0,0,1.0,2.0,2.0,1.0,0.0086,0,0,0
+2014,15,Mario Götze,22,Germany,midfielder,Bayern Munich,0.84,1.0,0,0,1,0,0,0,1.0,3.0,4.0,6.0,0.0084,0,0,0
+2014,16,Karim Benzema,27,France,forward,Real Madrid,0.75,0.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.0075,0,0,0
+2014,17,Andrés Iniesta,30,Spain,midfielder,Barcelona,0.67,0.0,0,0,0,0,0,0,0.0,0.0,3.0,1.0,0.0067,0,0,0
+2014,18,Bastian Schweinsteiger,30,Germany,midfielder,Bayern Munich,0.57,1.0,0,0,1,0,0,0,1.0,3.0,4.0,6.0,0.005699999999999999,0,0,0
+2014,19,Javier Mascherano,30,Argentina,defender,Barcelona,0.55,0.0,0,0,0,0,0,0,0.0,0.0,3.0,5.0,0.0055000000000000005,0,0,0
+2014,20,Thibaut Courtois,22,Belgium,goalkeeper,Chelsea,0.51,1.0,0,0,0,0,0,0,0.0,1.0,,3.0,0.0051,0,0,0
+2014,21,Eden Hazard,24,Belgium,forward,Chelsea,0.47,0.0,0,0,0,0,0,0,0.0,0.0,4.0,3.0,0.004699999999999999,0,0,0
+2014,22,Paul Pogba,21,France,midfielder,Juventus,0.4,1.0,0,0,0,0,0,0,0.0,1.0,1.0,3.0,0.004,0,0,0
+2014,23,Sergio Ramos,28,Spain,defender,Real Madrid,0.33,0.0,1,0,0,0,0,0,1.0,3.0,6.0,1.0,0.0033,0,0,0
+2015,1,Lionel Messi,28,Argentina,forward,Barcelona,41.33,1.0,1,0,0,0,0,0,1.0,4.0,6.0,,0.41327479023779545,1,1,0
+2015,2,Cristiano Ronaldo,30,Portugal,forward,Real Madrid,27.76,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.2775830674328866,1,0,0
+2015,3,Neymar,23,Brazil,midfielder,Barcelona,7.86,1.0,1,0,0,0,0,0,1.0,3.0,6.0,,0.07859520569245276,1,0,0
+2015,4,Robert Lewandowski,27,Poland,forward,Bayern Munich,4.17,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.04169745645515623,0,0,0
+2015,5,Luis Suárez,28,Uruguay,forward,Barcelona,3.38,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.033797938325762125,0,0,0
+2015,6,Thomas Müller,26,Germany,forward,Bayern Munich,2.21,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.022098651982229083,0,0,0
+2015,7,Manuel Neuer,29,Germany,goalkeeper,Bayern Munich,1.97,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.01969879837329923,0,0,0
+2015,8,Eden Hazard,25,Belgium,forward,Chelsea,1.33,1.0,0,0,0,0,0,0,1.0,2.0,2.0,0.0,0.013299188749486282,0,0,0
+2015,9,Andrés Iniesta,31,Spain,midfielder,Barcelona,1.24,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.012399243646137585,0,0,0
+2015,10,Alexis Sánchez,27,Chile,forward,Arsenal,1.18,0.0,0,0,0,0,1,0,1.0,2.0,2.0,6.0,0.01179928024390512,0,0,0
+2015,11,Zlatan Ibrahimović,34,Sweden,forward,Paris Saint-Germain,1.13,,0,0,0,0,0,0,,,3.0,0.0,0.011299310742044735,0,0,0
+2015,12,Yaya Touré,32,Ivory Coast,midfielder,Manchester City,0.89,0.0,0,0,0,0,0,1,0.0,1.0,2.0,6.0,0.00889945713311488,0,0,0
+2015,13,Sergio Agüero,27,Argentina,forward,Manchester City,0.86,0.0,0,0,0,0,0,0,0.0,0.0,2.0,,0.008599475431998647,0,0,0
+2015,14,Javier Mascherano,31,Argentina,defender,Barcelona,0.79,1.0,1,0,0,0,0,0,1.0,4.0,6.0,,0.007899518129394108,0,0,0
+2015,15,Paul Pogba,22,France,midfielder,Juventus,0.72,1.0,0,0,0,0,0,0,2.0,3.0,5.0,0.0,0.0071995608267895654,0,0,0
+2015,16,Gareth Bale,26,Wales,forward,Real Madrid,0.65,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.006499603524185025,0,0,0
+2015,17,Arturo Vidal,28,Chile,midfielder,Bayern Munich,0.58,1.0,0,0,0,0,1,0,1.0,3.0,,6.0,0.005799646221580483,0,0,0
+2015,18,Kevin De Bruyne,24,Belgium,midfielder,Manchester City,0.47,0.0,0,0,0,0,0,0,2.0,2.0,,0.0,0.004699713317487633,0,0,0
+2015,19,James Rodríguez,24,Colombia,midfielder,Real Madrid,0.45,0.0,0,0,0,0,0,0,0.0,0.0,4.0,,0.004499725516743478,0,0,0
+2015,20,Karim Benzema,28,France,forward,Real Madrid,0.4,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.003999756014883092,0,0,0
+2015,21,Toni Kroos,26,Germany,midfielder,Real Madrid,0.2931,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.002930821219905586,0,0,0
+2015,22,Arjen Robben,31,Netherlands,forward,Bayern Munich,0.293,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.0029298212809018647,0,0,0
+2015,23,Ivan Rakitić,27,Croatia,midfielder,Barcelona,0.05,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.0004999695018603865,0,0,0
+2016,1,Cristiano Ronaldo,31,Portugal,forward,Real Madrid,745.0,0.0,1,0,0,1,0,0,0.0,2.0,6.0,6.0,0.47848426461143223,1,1,0
+2016,2,Lionel Messi,29,Argentina,forward,Barcelona,316.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,,0.2029543994861914,1,0,0
+2016,3,Antoine Griezmann,25,France,forward,Atlético Madrid,198.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,0.0,0.12716763005780346,1,0,0
+2016,4,Luis Suárez,29,Uruguay,forward,Barcelona,91.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,,0.05844572896596018,0,0,0
+2016,5,Neymar,24,Brazil,midfielder,Barcelona,68.0,1.0,0,0,0,0,0,0,1.0,2.0,3.0,,0.04367373153500321,0,0,0
+2016,6,Gareth Bale,27,Wales,forward,Real Madrid,60.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.038535645472061654,0,0,0
+2016,7,Riyad Mahrez,25,Algeria,forward,Leicester City,20.0,1.0,0,0,0,0,0,0,0.0,1.0,0.0,0.0,0.012845215157353885,0,0,0
+2016,8,Jamie Vardy,29,England,forward,Leicester City,11.0,1.0,0,0,0,0,0,0,0.0,1.0,0.0,0.0,0.007064868336544637,0,0,0
+2016,9,Gianluigi Buffon,38,Italy,goalkeeper,Juventus,8.0,1.0,0,0,0,0,0,0,1.0,2.0,2.0,0.0,0.005138086062941554,0,0,0
+2016,9,Pepe,33,Portugal,defender,Real Madrid,8.0,0.0,1,0,0,1,0,0,0.0,2.0,6.0,6.0,0.005138086062941554,0,0,0
+2016,11,Pierre-Emerick Aubameyang,27,Gabon,forward,Borussia Dortmund,7.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.00449582530507386,0,0,0
+2016,12,Rui Patrício,28,Portugal,goalkeeper,Sporting CP,6.0,0.0,0,0,0,1,0,0,0.0,1.0,0.0,6.0,0.0038535645472061657,0,0,0
+2016,13,Zlatan Ibrahimović,35,Sweden,forward,Manchester United,5.0,,0,0,0,0,0,0,,,,0.0,0.0032113037893384713,0,0,0
+2016,14,Paul Pogba,23,France,midfielder,Manchester United,4.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.002569043031470777,0,0,0
+2016,14,Arturo Vidal,29,Chile,midfielder,Bayern Munich,4.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,,0.002569043031470777,0,0,0
+2016,16,Robert Lewandowski,28,Poland,forward,Bayern Munich,3.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,3.0,0.0019267822736030828,0,0,0
+2016,17,Toni Kroos,26,Germany,midfielder,Real Madrid,1.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,0.0,0.0006422607578676942,0,0,0
+2016,17,Luka Modrić,31,Croatia,midfielder,Real Madrid,1.0,,1,0,0,0,0,0,0.0,,6.0,2.0,0.0006422607578676942,0,0,0
+2016,17,Dimitri Payet,29,France,midfielder,West Ham United,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0006422607578676942,0,0,0
+2016,20,Sergio Agüero,28,Argentina,forward,Manchester City,0.0,0.0,0,0,0,0,0,0,1.0,1.0,4.0,,0.0,0,0,0
+2016,20,Kevin De Bruyne,25,Belgium,midfielder,Manchester City,0.0,0.0,0,0,0,0,0,0,1.0,1.0,4.0,0.0,0.0,0,0,0
+2016,20,Paulo Dybala,23,Argentina,forward,Juventus,0.0,1.0,0,0,0,0,0,0,1.0,2.0,2.0,0.0,0.0,0,0,0
+2016,20,Diego Godín,30,Uruguay,defender,Atlético Madrid,0.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,,0.0,0,0,0
+2016,20,Gonzalo Higuaín,29,Argentina,forward,Juventus,0.0,0.0,0,0,0,0,0,0,0.0,0.0,,,0.0,0,0,0
+2016,20,Andrés Iniesta,32,Spain,midfielder,Barcelona,0.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,0.0,0.0,0,0,0
+2016,20,Koke,24,Spain,midfielder,Atlético Madrid,0.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,2.0,0.0,0,0,0
+2016,20,Hugo Lloris,29,France,goalkeeper,Tottenham Hotspur,0.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0
+2016,20,Thomas Müller,27,Germany,forward,Bayern Munich,0.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.0,0,0,0
+2016,20,Manuel Neuer,30,Germany,goalkeeper,Bayern Munich,0.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.0,0,0,0
+2016,20,Sergio Ramos,30,Spain,defender,Real Madrid,0.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.0,0,0,0
+2017,1,Cristiano Ronaldo,32,Portugal,forward,Real Madrid,946.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.3359375,1,1,0
+2017,2,Lionel Messi,30,Argentina,forward,Barcelona,670.0,0.0,0,0,0,0,0,0,1.0,1.0,3.0,0.0,0.23792613636363635,1,0,0
+2017,3,Neymar,25,Brazil,midfielder,Paris Saint-Germain,361.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.12819602272727273,1,0,0
+2017,4,Gianluigi Buffon,39,Italy,goalkeeper,Juventus,221.0,1.0,0,0,0,0,0,0,1.0,2.0,5.0,0.0,0.07848011363636363,0,0,0
+2017,5,Luka Modrić,32,Croatia,midfielder,Real Madrid,84.0,,1,0,0,0,0,0,1.0,,6.0,0.0,0.029829545454545456,0,0,0
+2017,6,Sergio Ramos,31,Spain,defender,Real Madrid,71.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.02521306818181818,0,0,0
+2017,7,Kylian Mbappé,18,France,forward,Paris Saint-Germain,48.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.017045454545454544,0,0,0
+2017,8,N'Golo Kanté,26,France,midfielder,Chelsea,47.0,1.0,0,0,0,0,0,0,0.0,1.0,0.0,0.0,0.016690340909090908,0,0,0
+2017,9,Robert Lewandowski,29,Poland,forward,Bayern Munich,45.0,1.0,0,0,0,0,0,0,1.0,2.0,3.0,0.0,0.015980113636363636,0,0,0
+2017,10,Harry Kane,24,England,forward,Tottenham Hotspur,36.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.01278409090909091,0,0,0
+2017,11,Edinson Cavani,30,Uruguay,forward,Paris Saint-Germain,32.0,0.0,0,0,0,0,0,0,3.0,3.0,2.0,0.0,0.011363636363636364,0,0,0
+2017,12,Isco,25,Spain,midfielder,Real Madrid,28.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.009943181818181818,0,0,0
+2017,13,Luis Suárez,30,Uruguay,forward,Barcelona,27.0,0.0,0,0,0,0,0,0,1.0,1.0,3.0,0.0,0.009588068181818182,0,0,0
+2017,14,Kevin De Bruyne,26,Belgium,midfielder,Manchester City,25.0,0.0,0,0,0,0,0,0,0.0,0.0,2.0,0.0,0.00887784090909091,0,0,0
+2017,15,Paulo Dybala,24,Argentina,forward,Juventus,23.0,1.0,0,0,0,0,0,0,1.0,2.0,5.0,0.0,0.008167613636363636,0,0,0
+2017,16,Marcelo,29,Brazil,defender,Real Madrid,21.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.007457386363636364,0,0,0
+2017,17,Toni Kroos,27,Germany,midfielder,Real Madrid,20.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.007102272727272727,0,0,0
+2017,18,Antoine Griezmann,26,France,forward,Atlético Madrid,17.0,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.006036931818181818,0,0,0
+2017,19,Eden Hazard,26,Belgium,forward,Chelsea,16.0,1.0,0,0,0,0,0,0,0.0,1.0,0.0,0.0,0.005681818181818182,0,0,0
+2017,20,David de Gea,27,Spain,goalkeeper,Manchester United,15.0,0.0,0,1,0,0,0,0,1.0,2.0,1.0,0.0,0.005326704545454545,0,0,0
+2017,21,Pierre-Emerick Aubameyang,28,Gabon,forward,Borussia Dortmund,14.0,0.0,0,0,0,0,0,0,1.0,1.0,3.0,,0.004971590909090909,0,0,0
+2017,21,Leonardo Bonucci,30,Italy,defender,Milan,14.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.004971590909090909,0,0,0
+2017,23,Sadio Mané,25,Senegal,forward,Liverpool,10.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,,0.0035511363636363635,0,0,0
+2017,24,Radamel Falcao,31,Colombia,forward,Monaco,9.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.0031960227272727275,0,0,0
+2017,25,Karim Benzema,29,France,forward,Real Madrid,7.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.0024857954545454545,0,0,0
+2017,26,Jan Oblak,24,Slovenia,goalkeeper,Atlético Madrid,4.0,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.0014204545454545455,0,0,0
+2017,27,Mats Hummels,28,Germany,defender,Bayern Munich,3.0,1.0,0,0,0,0,0,0,1.0,2.0,3.0,0.0,0.001065340909090909,0,0,0
+2017,28,Edin Džeko,31,Bosnia and Herzegovina,forward,Roma,2.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0007102272727272727,0,0,0
+2017,29,Philippe Coutinho,25,Brazil,midfielder,Liverpool,0.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0
+2017,29,Dries Mertens,30,Belgium,midfielder,Napoli,0.0,0.0,0,0,0,0,0,0,0.0,0.0,2.0,0.0,0.0,0,0,0
+2018,1,Luka Modrić,33,Croatia,midfielder,Real Madrid,753.0,,1,0,0,0,0,0,0.0,,6.0,5.0,0.26145833333333335,1,1,0
+2018,2,Cristiano Ronaldo,33,Portugal,forward,Juventus,476.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,2.0,0.16527777777777777,1,0,0
+2018,3,Antoine Griezmann,27,France,forward,Atlético Madrid,414.0,0.0,0,1,1,0,0,0,0.0,3.0,1.0,6.0,0.14375,1,0,0
+2018,4,Kylian Mbappé,19,France,forward,Paris Saint-Germain,347.0,1.0,0,0,1,0,0,0,2.0,4.0,,6.0,0.12048611111111111,0,0,0
+2018,5,Lionel Messi,31,Argentina,forward,Barcelona,280.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,2.0,0.09722222222222222,0,0,0
+2018,6,Mohamed Salah,26,Egypt,forward,Liverpool,188.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,1.0,0.06527777777777778,0,0,0
+2018,7,Raphaël Varane,25,France,defender,Real Madrid,121.0,0.0,1,0,1,0,0,0,0.0,2.0,6.0,6.0,0.04201388888888889,0,0,0
+2018,8,Eden Hazard,27,Belgium,forward,Chelsea,119.0,0.0,0,0,0,0,0,0,1.0,1.0,2.0,4.0,0.04131944444444444,0,0,0
+2018,9,Kevin De Bruyne,27,Belgium,midfielder,Manchester City,29.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,4.0,0.010069444444444445,0,0,0
+2018,10,Harry Kane,25,England,forward,Tottenham Hotspur,25.0,0.0,0,0,0,0,0,0,0.0,0.0,2.0,4.0,0.008680555555555556,0,0,0
+2018,11,N'Golo Kanté,27,France,midfielder,Chelsea,24.0,0.0,0,0,1,0,0,0,1.0,2.0,2.0,6.0,0.008333333333333333,0,0,0
+2018,12,Neymar,26,Brazil,midfielder,Paris Saint-Germain,19.0,1.0,0,0,0,0,0,0,3.0,4.0,2.0,3.0,0.006597222222222222,0,0,0
+2018,13,Luis Suárez,31,Uruguay,forward,Barcelona,17.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,3.0,0.005902777777777778,0,0,0
+2018,14,Thibaut Courtois,26,Belgium,goalkeeper,Real Madrid,12.0,0.0,0,0,0,0,0,0,1.0,1.0,,4.0,0.004166666666666667,0,0,0
+2018,15,Paul Pogba,25,France,midfielder,Manchester United,9.0,0.0,0,0,1,0,0,0,0.0,1.0,2.0,6.0,0.003125,0,0,0
+2018,16,Sergio Agüero,30,Argentina,forward,Manchester City,7.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,2.0,0.0024305555555555556,0,0,0
+2018,17,Gareth Bale,29,Wales,forward,Real Madrid,6.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,0.0,0.0020833333333333333,0,0,0
+2018,17,Karim Benzema,30,France,forward,Real Madrid,6.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,0.0,0.0020833333333333333,0,0,0
+2018,19,Roberto Firmino,27,Brazil,forward,Liverpool,4.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,3.0,0.001388888888888889,0,0,0
+2018,19,Ivan Rakitić,30,Croatia,midfielder,Barcelona,4.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,5.0,0.001388888888888889,0,0,0
+2018,19,Sergio Ramos,32,Spain,defender,Real Madrid,4.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,2.0,0.001388888888888889,0,0,0
+2018,22,Edinson Cavani,31,Uruguay,forward,Paris Saint-Germain,3.0,1.0,0,0,0,0,0,0,2.0,3.0,2.0,3.0,0.0010416666666666667,0,0,0
+2018,22,Sadio Mané,26,Senegal,forward,Liverpool,3.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,1.0,0.0010416666666666667,0,0,0
+2018,22,Marcelo,30,Brazil,defender,Real Madrid,3.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,3.0,0.0010416666666666667,0,0,0
+2018,25,Alisson,26,Brazil,goalkeeper,Liverpool,2.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.0006944444444444445,0,0,0
+2018,25,Mario Mandžukić,32,Croatia,forward,Juventus,2.0,1.0,0,0,0,0,0,0,1.0,2.0,3.0,5.0,0.0006944444444444445,0,0,0
+2018,25,Jan Oblak,25,Slovenia,goalkeeper,Atlético Madrid,2.0,0.0,0,1,0,0,0,0,0.0,2.0,1.0,0.0,0.0006944444444444445,0,0,0
+2018,28,Diego Godín,32,Uruguay,defender,Atlético Madrid,1.0,0.0,0,1,0,0,0,0,0.0,2.0,1.0,3.0,0.00034722222222222224,0,0,0
+2018,29,Isco,26,Spain,midfielder,Real Madrid,0.0,0.0,1,0,0,0,0,0,0.0,1.0,6.0,2.0,0.0,0,0,0
+2018,29,Hugo Lloris,31,France,goalkeeper,Tottenham Hotspur,0.0,0.0,0,0,1,0,0,0,0.0,1.0,2.0,6.0,0.0,0,0,0
+2019,1,Lionel Messi,32,Argentina,forward,Barcelona,686.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,,0.24360795454545456,1,1,0
+2019,2,Virgil van Dijk,28,Netherlands,defender,Liverpool,679.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.2411221590909091,1,0,0
+2019,3,Cristiano Ronaldo,34,Portugal,forward,Juventus,476.0,1.0,0,0,0,0,0,0,1.0,3.0,3.0,0.0,0.1690340909090909,1,0,0
+2019,4,Sadio Mané,27,Senegal,forward,Liverpool,347.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,,0.12322443181818182,0,0,0
+2019,5,Mohamed Salah,27,Egypt,forward,Liverpool,178.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,,0.06321022727272728,0,0,0
+2019,6,Kylian Mbappé,20,France,forward,Paris Saint-Germain,89.0,1.0,0,0,0,0,0,0,1.0,2.0,2.0,0.0,0.03160511363636364,0,0,0
+2019,7,Alisson,27,Brazil,goalkeeper,Liverpool,67.0,0.0,1,0,0,0,1,0,0.0,2.0,6.0,6.0,0.023792613636363636,0,0,0
+2019,8,Robert Lewandowski,31,Poland,forward,Bayern Munich,44.0,1.0,0,0,0,0,0,0,1.0,2.0,2.0,0.0,0.015625,0,0,0
+2019,9,Bernardo Silva,25,Portugal,midfielder,Manchester City,41.0,1.0,0,0,0,0,0,0,3.0,5.0,3.0,0.0,0.01455965909090909,0,0,0
+2019,10,Riyad Mahrez,28,Algeria,forward,Manchester City,33.0,1.0,0,0,0,0,0,1,3.0,5.0,3.0,6.0,0.01171875,0,0,0
+2019,11,Frenkie de Jong,22,Netherlands,midfielder,Barcelona,31.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.011008522727272728,0,0,0
+2019,12,Raheem Sterling,24,England,forward,Manchester City,30.0,1.0,0,0,0,0,0,0,3.0,4.0,3.0,0.0,0.01065340909090909,0,0,0
+2019,13,Eden Hazard,28,Belgium,forward,Real Madrid,25.0,0.0,0,1,0,0,0,0,0.0,1.0,,0.0,0.00887784090909091,0,0,0
+2019,14,Kevin De Bruyne,28,Belgium,midfielder,Manchester City,14.0,1.0,0,0,0,0,0,0,3.0,4.0,3.0,0.0,0.004971590909090909,0,0,0
+2019,15,Matthijs de Ligt,20,Netherlands,defender,Juventus,13.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.004616477272727273,0,0,0
+2019,16,Sergio Agüero,31,Argentina,forward,Manchester City,12.0,1.0,0,0,0,0,0,0,3.0,4.0,3.0,,0.004261363636363636,0,0,0
+2019,17,Roberto Firmino,28,Brazil,forward,Liverpool,11.0,0.0,1,0,0,0,1,0,0.0,3.0,6.0,6.0,0.00390625,0,0,0
+2019,18,Antoine Griezmann,28,France,forward,Barcelona,9.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0031960227272727275,0,0,0
+2019,19,Trent Alexander-Arnold,21,England,defender,Liverpool,8.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.002840909090909091,0,0,0
+2019,20,Pierre-Emerick Aubameyang,30,Gabon,forward,Arsenal,5.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0017755681818181818,0,0,0
+2019,20,Dušan Tadić,31,Serbia,midfielder,Ajax,5.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.0017755681818181818,0,0,0
+2019,22,Son Heung-min,27,South Korea,forward,Tottenham Hotspur,4.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,0.0,0.0014204545454545455,0,0,0
+2019,23,Hugo Lloris,32,France,goalkeeper,Tottenham Hotspur,3.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,0.0,0.001065340909090909,0,0,0
+2019,24,Kalidou Koulibaly,28,Senegal,defender,Napoli,2.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,,0.0007102272727272727,0,0,0
+2019,24,Marc-André ter Stegen,27,Germany,goalkeeper,Barcelona,2.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.0007102272727272727,0,0,0
+2019,26,Karim Benzema,31,France,forward,Real Madrid,1.0,0.0,0,0,0,0,0,0,0.0,0.0,2.0,0.0,0.0003551136363636364,0,0,0
+2019,26,Georginio Wijnaldum,29,Netherlands,midfielder,Liverpool,1.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,0.0,0.0003551136363636364,0,0,0
+2019,28,João Félix,20,Portugal,midfielder,Atlético Madrid,0.0,1.0,0,0,0,0,0,0,0.0,2.0,,0.0,0.0,0,0,0
+2019,28,Marquinhos,25,Brazil,defender,Paris Saint-Germain,0.0,1.0,0,0,0,0,1,0,1.0,3.0,2.0,6.0,0.0,0,0,0
+2019,28,Donny van de Beek,22,Netherlands,midfielder,Ajax,0.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.0,0,0,0
+2021,1,Lionel Messi,34,Argentina,forward,Paris Saint-Germain,613.0,0.0,0,0,0,0,1,0,1.0,2.0,,6.0,0.22536764705882353,1,1,0
+2021,2,Robert Lewandowski,33,Poland,forward,Bayern Munich,580.0,1.0,0,0,0,0,0,0,1.0,3.0,3.0,1.0,0.21323529411764705,1,0,0
+2021,3,Jorginho,29,Italy,midfielder,Chelsea,460.0,0.0,1,0,0,1,0,0,0.0,3.0,6.0,6.0,0.16911764705882354,1,0,0
+2021,4,Karim Benzema,33,France,forward,Real Madrid,239.0,0.0,0,0,0,0,0,0,0.0,0.0,4.0,2.0,0.08786764705882352,0,0,0
+2021,5,N'Golo Kanté,30,France,midfielder,Chelsea,186.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,2.0,0.06838235294117648,0,0,0
+2021,6,Cristiano Ronaldo,36,Portugal,forward,Manchester United,178.0,0.0,0,0,0,0,0,0,2.0,2.0,,2.0,0.06544117647058824,0,0,0
+2021,7,Mohamed Salah,29,Egypt,forward,Liverpool,121.0,0.0,0,0,0,0,0,0,0.0,0.0,3.0,0.0,0.04448529411764706,0,0,0
+2021,8,Kevin De Bruyne,30,Belgium,midfielder,Manchester City,73.0,1.0,0,0,0,0,0,0,1.0,2.0,5.0,3.0,0.026838235294117645,0,0,0
+2021,9,Kylian Mbappé,22,France,forward,Paris Saint-Germain,58.0,0.0,0,0,0,0,0,0,2.0,2.0,4.0,2.0,0.021323529411764706,0,0,0
+2021,10,Gianluigi Donnarumma,22,Italy,goalkeeper,Paris Saint-Germain,36.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.013235294117647059,0,0,0
+2021,11,Erling Haaland,21,Norway,forward,Borussia Dortmund,33.0,0.0,0,0,0,0,0,0,1.0,1.0,3.0,0.0,0.01213235294117647,0,0,0
+2021,12,Romelu Lukaku,28,Belgium,forward,Chelsea,26.0,1.0,0,0,0,0,0,0,0.0,1.0,,3.0,0.009558823529411765,0,0,0
+2021,12,Giorgio Chiellini,37,Italy,defender,Juventus,26.0,0.0,0,0,0,1,0,0,2.0,3.0,2.0,6.0,0.009558823529411765,0,0,0
+2021,14,Leonardo Bonucci,34,Italy,defender,Juventus,18.0,0.0,0,0,0,1,0,0,2.0,3.0,2.0,6.0,0.006617647058823529,0,0,0
+2021,15,Raheem Sterling,26,England,forward,Manchester City,10.0,1.0,0,0,0,0,0,0,1.0,2.0,5.0,5.0,0.003676470588235294,0,0,0
+2021,16,Neymar,29,Brazil,midfielder,Paris Saint-Germain,9.0,0.0,0,0,0,0,0,0,2.0,2.0,4.0,5.0,0.0033088235294117647,0,0,0
+2021,17,Luis Suárez,34,Uruguay,forward,Atlético Madrid,8.0,1.0,0,0,0,0,0,0,0.0,1.0,2.0,3.0,0.0029411764705882353,0,0,0
+2021,17,Simon Kjær,32,Denmark,defender,Milan,8.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,4.0,0.0029411764705882353,0,0,0
+2021,19,Mason Mount,22,England,midfielder,Chelsea,7.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,5.0,0.002573529411764706,0,0,0
+2021,19,Riyad Mahrez,30,Algeria,forward,Manchester City,7.0,1.0,0,0,0,0,0,0,1.0,2.0,5.0,0.0,0.002573529411764706,0,0,0
+2021,21,Bruno Fernandes,27,Portugal,midfielder,Manchester United,6.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,2.0,0.0022058823529411764,0,0,0
+2021,21,Lautaro Martínez,24,Argentina,forward,Inter Milan,6.0,1.0,0,0,0,0,1,0,0.0,2.0,0.0,6.0,0.0022058823529411764,0,0,0
+2021,23,Harry Kane,28,England,forward,Tottenham Hotspur,4.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,5.0,0.0014705882352941176,0,0,0
+2021,24,Pedri,19,Spain,midfielder,Barcelona,3.0,0.0,0,0,0,0,0,0,1.0,1.0,2.0,4.0,0.0011029411764705882,0,0,0
+2021,25,Phil Foden,21,England,midfielder,Manchester City,2.0,1.0,0,0,0,0,0,0,1.0,2.0,5.0,5.0,0.0007352941176470588,0,0,0
+2021,26,Gerard Moreno,29,Spain,forward,Villarreal,1.0,0.0,0,1,0,0,0,0,0.0,1.0,0.0,4.0,0.0003676470588235294,0,0,0
+2021,26,Nicolò Barella,24,Italy,midfielder,Inter Milan,1.0,1.0,0,0,0,1,0,0,0.0,2.0,0.0,6.0,0.0003676470588235294,0,0,0
+2021,26,Rúben Dias,24,Portugal,defender,Manchester City,1.0,1.0,0,0,0,0,0,0,1.0,2.0,5.0,2.0,0.0003676470588235294,0,0,0
+2021,29,Luka Modrić,36,Croatia,midfielder,Real Madrid,0.0,,0,0,0,0,0,0,0.0,,4.0,2.0,0.0,0,0,0
+2021,29,Cesar Azpilicueta,32,Spain,defender,Chelsea,0.0,0.0,1,0,0,0,0,0,0.0,2.0,6.0,4.0,0.0,0,0,0
+2022,1,Karim Benzema,34,France,forward,Real Madrid,549.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.3689516129032258,1,1,1
+2022,2,Sadio Mané,30,Senegal,forward,Liverpool,193.0,0.0,0,0,0,0,0,1,3.0,4.0,,6.0,0.1297043010752688,1,0,1
+2022,3,Kevin De Bruyne,31,Belgium,midfielder,Manchester City,175.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.11760752688172044,1,0,1
+2022,4,Robert Lewandowski,34,Poland,forward,Bayern Munich,170.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.11424731182795698,0,0,1
+2022,5,Mohamed Salah,30,Egypt,forward,Liverpool,116.0,0.0,0,0,0,0,0,0,3.0,3.0,5.0,0.0,0.07795698924731183,0,0,1
+2022,6,Kylian Mbappé,23,France,forward,Paris Saint-Germain,85.0,1.0,0,0,0,0,0,0,0.0,1.0,2.0,0.0,0.05712365591397849,0,0,1
+2022,7,Thibaut Courtois,30,Belgium,goalkeeper,Real Madrid,82.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.05510752688172043,0,0,1
+2022,8,Vinícius Júnior,22,Brazil,forward,Real Madrid,61.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.04099462365591398,0,0,1
+2022,9,Luka Modrić,37,Croatia,midfielder,Real Madrid,20.0,,1,0,0,0,0,0,1.0,,6.0,0.0,0.013440860215053764,0,0,1
+2022,10,Erling Haaland,22,Norway,forward,Borussia Dortmund,18.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.012096774193548387,0,0,1
+2022,11,Son Heung-min,30,South Korea,forward,Tottenham Hotspur,5.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.003360215053763441,0,0,1
+2022,12,Riyad Mahrez,31,Algeria,midfielder,Manchester City,4.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.002688172043010753,0,0,1
+2022,13,Sébastien Haller,28,Ivory Coast,forward,Ajax,2.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.0013440860215053765,0,0,1
+2022,14,Fabinho,28,Brazil,midfielder,Liverpool,2.0,0.0,0,0,0,0,0,0,3.0,3.0,5.0,0.0,0.0013440860215053765,0,0,1
+2022,14,Rafael Leão,23,Portugal,forward,AC Milan,2.0,1.0,0,0,0,0,0,0,0.0,1.0,0.0,0.0,0.0013440860215053765,0,0,1
+2022,16,Virgil van Dijk,31,Netherlands,defender,Liverpool,1.0,0.0,0,0,0,0,0,0,3.0,3.0,5.0,0.0,0.0006720430107526882,0,0,1
+2022,17,Casemiro,30,Brazil,midfielder,Real Madrid,1.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.0006720430107526882,0,0,1
+2022,17,Luis Díaz,25,Colombia,midfielder,Liverpool,1.0,1.0,0,0,0,0,0,0,3.0,4.0,,0.0,0.0006720430107526882,0,0,1
+2022,17,Dušan Vlahović,22,Serbia,forward,Juventus,1.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0006720430107526882,0,0,1
+2022,20,Cristiano Ronaldo,37,Portugal,forward,Manchester United,0.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0,0,0,1
+2022,20,Harry Kane,29,England,forward,Tottenham Hotspur,0.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1
+2022,20,Trent Alexander-Arnold,24,England,defender,Liverpool,0.0,0.0,0,0,0,0,0,0,3.0,3.0,5.0,0.0,0.0,0,0,1
+2022,20,Phil Foden,22,England,midfielder,Manchester City,0.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.0,0,0,1
+2022,20,Bernardo Silva,28,Portugal,midfielder,Manchester City,0.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.0,0,0,1
+2022,20,João Cancelo,28,Portugal,defender,Manchester City,0.0,1.0,0,0,0,0,0,0,0.0,1.0,4.0,0.0,0.0,0,0,1
+2022,20,Joshua Kimmich,27,Germany,midfielder,Bayern Munich,0.0,1.0,0,0,0,0,0,0,2.0,3.0,3.0,0.0,0.0,0,0,1
+2022,20,Mike Maignan,27,France,goalkeeper,AC Milan,0.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.0,0,0,1
+2022,20,Christopher Nkunku,24,France,forward,RB Leipzig,0.0,0.0,0,0,0,0,0,0,1.0,1.0,1.0,0.0,0.0,0,0,1
+2022,20,Darwin Núñez,23,Uruguay,forward,Benfica,0.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.0,0,0,1
+2022,20,Antonio Rüdiger,29,Germany,defender,Chelsea,0.0,0.0,0,0,0,0,0,0,0.0,2.0,,0.0,0.0,0,0,1
+2023,1,Lionel Messi,36,Argentina,forward,Inter Miami,462.0,1.0,0,0,1,0,0,0,0.0,2.0,,6.0,0.3138586956521739,1,1,1
+2023,2,Erling Haaland,23,Norway,forward,Manchester City,357.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,0.0,0.2425271739130435,1,0,1
+2023,3,Kylian Mbappé,24,France,forward,Paris Saint-Germain,270.0,1.0,0,0,0,0,0,0,0.0,1.0,2.0,5.0,0.18342391304347827,1,0,1
+2023,4,Kevin De Bruyne,32,Belgium,midfielder,Manchester City,100.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,1.0,0.06793478260869565,0,0,1
+2023,5,Rodri,27,Spain,midfielder,Manchester City,57.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,2.0,0.03872282608695652,0,0,1
+2023,6,Vinícius Júnior,23,Brazil,forward,Real Madrid,49.0,0.0,0,0,0,0,0,0,1.0,3.0,4.0,3.0,0.03328804347826087,0,0,1
+2023,7,Julián Álvarez,23,Argentina,forward,Manchester City,28.0,1.0,1,0,1,0,0,0,1.0,4.0,6.0,6.0,0.019021739130434784,0,0,1
+2023,8,Victor Osimhen,24,Nigeria,forward,Napoli,24.0,1.0,0,0,0,0,0,0,0.0,1.0,3.0,0.0,0.016304347826086956,0,0,1
+2023,9,Bernardo Silva,29,Portugal,midfielder,Manchester City,20.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.01358695652173913,0,0,1
+2023,10,Luka Modrić,38,Croatia,midfielder,Real Madrid,19.0,,0,0,0,0,0,0,1.0,,4.0,4.0,0.012907608695652174,0,0,1
+2023,11,Mohamed Salah,31,Egypt,forward,Liverpool,13.0,0.0,0,0,0,0,0,0,0.0,0.0,2.0,0.0,0.008831521739130434,0,0,1
+2023,12,Robert Lewandowski,35,Poland,forward,Barcelona,12.0,1.0,0,0,0,0,0,0,1.0,2.0,,2.0,0.008152173913043478,0,0,1
+2023,13,Yassine Bounou,32,Morocco,goalkeeper,Sevilla,10.0,0.0,0,1,0,0,0,0,0.0,1.0,,4.0,0.006793478260869565,0,0,1
+2023,14,İlkay Gündoğan,33,Germany,midfielder,Manchester City,8.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,1.0,0.005434782608695652,0,0,1
+2023,15,Emiliano Martínez,31,Argentina,goalkeeper,Aston Villa,7.0,0.0,0,0,1,0,0,0,0.0,1.0,0.0,6.0,0.004755434782608696,0,0,1
+2023,16,Karim Benzema,35,France,forward,Real Madrid,6.0,0.0,0,0,0,0,0,0,1.0,3.0,,5.0,0.004076086956521739,0,0,1
+2023,17,Khvicha Kvaratskhelia,22,Georgia,forward,Napoli,6.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.004076086956521739,0,0,1
+2023,18,Jude Bellingham,20,England,midfielder,Borussia Dortmund,5.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.0033967391304347825,0,0,1
+2023,19,Harry Kane,30,England,forward,Tottenham Hotspur,4.0,0.0,0,0,0,0,0,0,0.0,0.0,,3.0,0.002717391304347826,0,0,1
+2023,20,Lautaro Martínez,26,Argentina,forward,Inter Milan,4.0,0.0,0,0,1,0,0,0,2.0,3.0,0.0,6.0,0.002717391304347826,0,0,1
+2023,21,Antoine Griezmann,32,France,forward,Atlético Madrid,4.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.002717391304347826,0,0,1
+2023,22,Kim Min-jae,26,South Korea,defender,Napoli,3.0,1.0,0,0,0,0,0,0,0.0,1.0,,2.0,0.0020380434782608695,0,0,1
+2023,23,André Onana,27,Cameroon,goalkeeper,Inter Milan,2.0,0.0,0,0,0,0,0,0,2.0,2.0,,1.0,0.001358695652173913,0,0,1
+2023,24,Bukayo Saka,22,England,forward,Arsenal,1.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,3.0,0.0006793478260869565,0,0,1
+2023,25,Joško Gvardiol,21,Croatia,defender,RB Leipzig,1.0,0.0,0,0,0,0,0,0,1.0,1.0,,4.0,0.0006793478260869565,0,0,1
+2023,26,Jamal Musiala,20,Germany,midfielder,Bayern Munich,0.0,1.0,0,0,0,0,0,0,0.0,1.0,3.0,1.0,0.0,0,0,1
+2023,27,Nicolò Barella,26,Italy,midfielder,Inter Milan,0.0,0.0,0,0,0,0,0,0,2.0,2.0,0.0,0.0,0.0,0,0,1
+2023,28,Randal Kolo Muani,24,France,forward,Eintracht Frankfurt,0.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.0,0,0,1
+2023,28,Martin Ødegaard,24,Norway,midfielder,Arsenal,0.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,1
+2023,30,Rúben Dias,26,Portugal,defender,Manchester City,0.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.0,0,0,1
+2024,1,Rodri,28,Spain,midfielder,Manchester City,1170.0,1.0,0,0,0,1,0,0,0.0,4.0,3.0,6.0,0.17639077340569878,1,1,1
+2024,2,Vinícius Júnior,24,Brazil,forward,Real Madrid,1129.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.17020955826925976,1,0,1
+2024,3,Jude Bellingham,21,England,midfielder,Real Madrid,917.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,5.0,0.13824815317352632,1,0,1
+2024,4,Dani Carvajal,32,Spain,defender,Real Madrid,550.0,1.0,1,0,0,1,0,0,1.0,4.0,6.0,6.0,0.08291873963515754,0,0,1
+2024,5,Erling Haaland,24,Norway,forward,Manchester City,432.0,1.0,0,0,0,0,0,0,0.0,2.0,3.0,0.0,0.06512890094979647,0,0,1
+2024,6,Kylian Mbappé,25,France,forward,Paris Saint-Germain,420.0,1.0,0,0,0,0,0,0,2.0,3.0,,4.0,0.06331976481230213,0,0,1
+2024,7,Lautaro Martínez,27,Argentina,forward,Inter Milan,402.0,1.0,0,0,0,0,1,0,1.0,3.0,2.0,6.0,0.06060606060606061,0,0,1
+2024,8,Lamine Yamal,17,Spain,forward,Barcelona,383.0,0.0,0,0,0,1,0,0,0.0,1.0,,6.0,0.05774159505502789,0,0,1
+2024,9,Toni Kroos,34,Germany,midfielder,Real Madrid,291.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.0438715513342379,0,0,1
+2024,10,Harry Kane,31,England,forward,Bayern Munich,201.0,0.0,0,0,0,0,0,0,0.0,0.0,,5.0,0.030303030303030304,0,0,1
+2024,11,Phil Foden,24,England,midfielder,Manchester City,157.0,1.0,0,0,0,0,0,0,0.0,3.0,3.0,5.0,0.0236695311322177,0,0,1
+2024,12,Florian Wirtz,21,Germany,midfielder,Bayer Leverkusen,101.0,1.0,0,0,0,0,0,0,1.0,2.0,0.0,3.0,0.01522689582391075,0,0,1
+2024,13,Dani Olmo,26,Spain,midfielder,RB Leipzig,86.0,0.0,0,0,0,1,0,0,1.0,2.0,,6.0,0.012965475652042816,0,0,1
+2024,14,Ademola Lookman,27,Nigeria,forward,Atalanta,82.0,0.0,0,1,0,0,0,0,0.0,1.0,0.0,5.0,0.012362430272878033,0,0,1
+2024,15,Nico Williams,22,Spain,forward,Athletic Bilbao,73.0,0.0,0,0,0,1,0,0,1.0,2.0,,6.0,0.011005578169757274,0,0,1
+2024,16,Granit Xhaka,32,Switzerland,midfielder,Bayer Leverkusen,60.0,1.0,0,0,0,0,0,0,1.0,2.0,,3.0,0.009045680687471733,0,0,1
+2024,17,Federico Valverde,26,Uruguay,midfielder,Real Madrid,58.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,4.0,0.008744157997889341,0,0,1
+2024,18,Emiliano Martínez,32,Argentina,goalkeeper,Aston Villa,28.0,0.0,0,0,0,0,1,0,0.0,1.0,0.0,6.0,0.004221317654153475,0,0,1
+2024,19,Martin Ødegaard,25,Norway,midfielder,Arsenal,16.0,0.0,0,0,0,0,0,0,1.0,1.0,3.0,0.0,0.0024121815166591285,0,0,1
+2024,20,Hakan Çalhanoğlu,30,Turkey,midfielder,Inter Milan,15.0,1.0,0,0,0,0,0,0,1.0,2.0,2.0,3.0,0.002261420171867933,0,0,1
+2024,21,Bukayo Saka,23,England,forward,Arsenal,14.0,0.0,0,0,0,0,0,0,1.0,1.0,3.0,5.0,0.0021106588270767375,0,0,1
+2024,22,Antonio Rüdiger,31,Germany,defender,Real Madrid,13.0,1.0,1,0,0,0,0,0,1.0,3.0,6.0,3.0,0.001959897482285542,0,0,1
+2024,23,Rúben Dias,27,Portugal,defender,Manchester City,8.0,1.0,0,0,0,0,0,0,0.0,3.0,3.0,3.0,0.0012060907583295642,0,0,1
+2024,24,William Saliba,23,France,defender,Arsenal,8.0,0.0,0,0,0,0,0,0,1.0,1.0,3.0,4.0,0.0012060907583295642,0,0,1
+2024,25,Cole Palmer,22,England,forward,Chelsea,7.0,0.0,0,0,0,0,0,0,0.0,1.0,,5.0,0.0010553294135383687,0,0,1
+2024,26,Declan Rice,25,England,midfielder,Arsenal,5.0,0.0,0,0,0,0,0,0,1.0,1.0,,5.0,0.0007538067239559777,0,0,1
+2024,27,Vitinha,24,Portugal,midfielder,Paris Saint-Germain,5.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,3.0,0.0007538067239559777,0,0,1
+2024,28,Álex Grimaldo,29,Spain,defender,Bayer Leverkusen,2.0,1.0,0,0,0,1,0,0,1.0,3.0,,6.0,0.00030152268958239106,0,0,1
+2024,29,Artem Dovbyk,27,Ukraine,forward,Girona,0.0,0.0,0,0,0,0,0,0,0.0,0.0,,1.0,0.0,0,0,1
+2024,29,Mats Hummels,35,Germany,defender,Borussia Dortmund,0.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0,0,0,1
+2025,1,Ousmane Dembélé,28,France,forward,Paris Saint-Germain,1380.0,1.0,1,0,0,0,0,0,2.0,4.0,6.0,0.0,0.20597014925373133,1,1,1
+2025,2,Lamine Yamal,18,Spain,forward,Barcelona,1059.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.1580597014925373,1,0,1
+2025,3,Vitinha,25,Portugal,midfielder,Paris Saint-Germain,703.0,1.0,1,0,0,0,0,0,2.0,5.0,6.0,0.0,0.10492537313432836,1,0,1
+2025,4,Mohamed Salah,33,Egypt,forward,Liverpool,657.0,1.0,0,0,0,0,0,0,0.0,1.0,2.0,0.0,0.09805970149253732,0,0,1
+2025,5,Raphinha,28,Brazil,forward,Barcelona,620.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.09253731343283582,0,0,1
+2025,6,Achraf Hakimi,26,Morocco,defender,Paris Saint-Germain,484.0,1.0,1,0,0,0,0,0,2.0,4.0,6.0,0.0,0.07223880597014926,0,0,1
+2025,7,Kylian Mbappé,26,France,forward,Real Madrid,378.0,0.0,0,0,0,0,0,0,0.0,2.0,,0.0,0.05641791044776119,0,0,1
+2025,8,Cole Palmer,23,England,forward,Chelsea,211.0,0.0,0,0,0,0,0,0,0.0,2.0,0.0,0.0,0.031492537313432836,0,0,1
+2025,9,Gianluigi Donnarumma,26,Italy,goalkeeper,Paris Saint-Germain,172.0,1.0,1,0,0,0,0,0,2.0,4.0,6.0,0.0,0.025671641791044777,0,0,1
+2025,10,Nuno Mendes,23,Portugal,defender,Paris Saint-Germain,171.0,1.0,1,0,0,0,0,0,2.0,5.0,6.0,0.0,0.025522388059701494,0,0,1
+2025,11,Pedri,22,Spain,midfielder,Barcelona,124.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.018507462686567163,0,0,1
+2025,12,Khvicha Kvaratskhelia,24,Georgia,forward,Paris Saint-Germain,123.0,2.0,1,0,0,0,0,0,1.0,4.0,6.0,0.0,0.01835820895522388,0,0,1
+2025,13,Harry Kane,32,England,forward,Bayern Munich,112.0,1.0,0,0,0,0,0,0,0.0,1.0,3.0,0.0,0.01671641791044776,0,0,1
+2025,14,Désiré Doué,20,France,midfielder,Paris Saint-Germain,74.0,1.0,1,0,0,0,0,0,2.0,4.0,6.0,0.0,0.011044776119402985,0,0,1
+2025,15,Viktor Gyökeres,27,Sweden,forward,Sporting CP,56.0,1.0,0,0,0,0,0,0,1.0,2.0,,0.0,0.00835820895522388,0,0,1
+2025,16,Vinícius Júnior,25,Brazil,forward,Real Madrid,51.0,0.0,0,0,0,0,0,0,0.0,2.0,3.0,0.0,0.007611940298507463,0,0,1
+2025,17,Robert Lewandowski,37,Poland,forward,Barcelona,49.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,0.0,0.007313432835820896,0,0,1
+2025,18,Scott McTominay,28,Scotland,midfielder,Napoli,45.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.006716417910447761,0,0,1
+2025,19,João Neves,20,Portugal,midfielder,Paris Saint-Germain,40.0,1.0,1,0,0,0,0,0,2.0,5.0,6.0,0.0,0.005970149253731343,0,0,1
+2025,20,Lautaro Martínez,28,Argentina,forward,Inter Milan,37.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,0.0,0.0055223880597014925,0,0,1
+2025,21,Serhou Guirassy,29,Guinea,forward,Borussia Dortmund,25.0,0.0,0,0,0,0,0,0,0.0,0.0,,0.0,0.0037313432835820895,0,0,1
+2025,22,Alexis Mac Allister,26,Argentina,midfielder,Liverpool,21.0,1.0,0,0,0,0,0,0,0.0,1.0,2.0,0.0,0.003134328358208955,0,0,1
+2025,23,Jude Bellingham,22,England,midfielder,Real Madrid,21.0,0.0,0,0,0,0,0,0,0.0,2.0,3.0,0.0,0.003134328358208955,0,0,1
+2025,24,Fabián Ruiz,29,Spain,midfielder,Paris Saint-Germain,20.0,1.0,1,0,0,0,0,0,2.0,4.0,6.0,0.0,0.0029850746268656717,0,0,1
+2025,25,Denzel Dumfries,29,Netherlands,defender,Inter Milan,20.0,0.0,0,0,0,0,0,0,0.0,0.0,5.0,0.0,0.0029850746268656717,0,0,1
+2025,26,Erling Haaland,25,Norway,forward,Manchester City,18.0,0.0,0,0,0,0,0,0,1.0,1.0,1.0,0.0,0.0026865671641791043,0,0,1
+2025,27,Declan Rice,26,England,midfielder,Arsenal,13.0,0.0,0,0,0,0,0,0,0.0,0.0,4.0,0.0,0.0019402985074626865,0,0,1
+2025,28,Virgil van Dijk,34,Netherlands,defender,Liverpool,7.0,1.0,0,0,0,0,0,0,0.0,1.0,2.0,0.0,0.001044776119402985,0,0,1
+2025,29,Florian Wirtz,22,Germany,midfielder,Bayer Leverkusen,5.0,0.0,0,0,0,0,0,0,1.0,1.0,,0.0,0.0007462686567164179,0,0,1
+2025,30,Michael Olise,23,France,forward,Bayern Munich,4.0,1.0,0,0,0,0,0,0,0.0,1.0,,0.0,0.0005970149253731343,0,0,1
+2026,1,Harry Kane,33,England,forward,Bayern Munich,1055.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,4.0,0.15746268656716417,1,1,1
+2026,2,Kylian Mbappé,27,France,forward,Real Madrid,1027.0,0.0,0,0,0,0,0,0,0.0,0.0,3.0,4.0,0.15328358208955223,1,0,1
+2026,3,Lamine Yamal,19,Spain,forward,Barcelona,881.0,1.0,0,0,1,0,0,0,1.0,3.0,3.0,6.0,0.13149253731343283,1,0,1
+2026,4,Rodri,30,Spain,midfielder,Manchester City,726.0,0.0,0,0,1,0,0,0,2.0,3.0,,6.0,0.10835820895522388,0,0,1
+2026,5,Lionel Messi,39,Argentina,forward,Inter Miami,612.0,0.0,0,0,0,0,0,0,1.0,1.0,,5.0,0.09134328358208955,0,0,1
+2026,6,Khvicha Kvaratskhelia,25,Georgia,forward,Paris Saint-Germain,541.0,1.0,1,0,0,0,0,0,1.0,5.0,6.0,0.0,0.08074626865671641,0,0,1
+2026,7,Ousmane Dembélé,29,France,forward,Paris Saint-Germain,418.0,1.0,1,0,0,0,0,0,1.0,5.0,6.0,4.0,0.06238805970149254,0,0,1
+2026,8,Erling Haaland,26,Norway,forward,Manchester City,378.0,0.0,0,0,0,0,0,0,2.0,2.0,2.0,3.0,0.05641791044776119,0,0,1
+2026,9,Michael Olise,24,France,forward,Bayern Munich,296.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,4.0,0.04417910447761194,0,0,1
+2026,10,Fabián Ruiz,30,Spain,midfielder,Paris Saint-Germain,201.0,1.0,1,0,1,0,0,0,1.0,6.0,6.0,6.0,0.03,0,0,1
+2026,11,Jude Bellingham,23,England,midfielder,Real Madrid,107.0,0.0,0,0,0,0,0,0,0.0,0.0,3.0,4.0,0.015970149253731344,0,0,1
+2026,12,Pau Cubarsí,19,Spain,defender,Barcelona,101.0,1.0,0,0,1,0,0,0,1.0,3.0,3.0,6.0,0.015074626865671641,0,0,1
+2026,13,Achraf Hakimi,27,Morocco,defender,Paris Saint-Germain,65.0,1.0,1,0,0,0,0,1,0.0,4.0,6.0,6.0,0.009701492537313432,0,0,1
+2026,14,Vitinha,26,Portugal,midfielder,Paris Saint-Germain,59.0,1.0,1,0,0,0,0,0,1.0,5.0,6.0,2.0,0.00880597014925373,0,0,1
+2026,15,Declan Rice,27,England,midfielder,Arsenal,57.0,1.0,0,0,0,0,0,0,0.0,1.0,5.0,4.0,0.008507462686567165,0,0,1
+2026,16,Ferran Torres,26,Spain,forward,Barcelona,44.0,1.0,0,0,1,0,0,0,1.0,3.0,,6.0,0.006567164179104477,0,0,1
+2026,17,Vinícius Júnior,26,Brazil,forward,Real Madrid,26.0,0.0,0,0,0,0,0,0,0.0,0.0,3.0,2.0,0.003880597014925373,0,0,1
+2026,18,Marc Cucurella,28,Spain,defender,Chelsea,16.0,0.0,0,0,1,0,0,0,0.0,1.0,,6.0,0.0023880597014925373,0,0,1
+2026,19,João Neves,22,Portugal,midfielder,Paris Saint-Germain,15.0,1.0,1,0,0,0,0,0,1.0,4.0,6.0,2.0,0.002238805970149254,0,0,1
+2026,20,Willian Pacho,25,Ecuador,defender,Paris Saint-Germain,12.0,1.0,1,0,0,0,0,0,1.0,5.0,6.0,2.0,0.001791044776119403,0,0,1
+2026,21,Gabriel Magalhães,28,Brazil,defender,Arsenal,11.0,1.0,0,0,0,0,0,0,0.0,1.0,5.0,2.0,0.0016417910447761193,0,0,1
+2026,22,Lautaro Martínez,29,Argentina,forward,Inter Milan,11.0,1.0,0,0,0,0,0,0,1.0,2.0,1.0,5.0,0.0016417910447761193,0,0,1
+2026,23,Nuno Mendes,24,Portugal,defender,Paris Saint-Germain,8.0,1.0,1,0,0,0,0,0,1.0,5.0,6.0,2.0,0.0011940298507462687,0,0,1
+2026,24,Luis Díaz,29,Colombia,forward,Bayern Munich,8.0,1.0,0,0,0,0,0,0,2.0,3.0,,2.0,0.0011940298507462687,0,0,1
+2026,25,Marquinhos,32,Brazil,defender,Paris Saint-Germain,7.0,1.0,1,0,0,0,0,0,1.0,5.0,6.0,2.0,0.001044776119402985,0,0,1
+2026,26,Dayot Upamecano,27,France,defender,Bayern Munich,5.0,1.0,0,0,0,0,0,0,2.0,3.0,4.0,4.0,0.0007462686567164179,0,0,1
+2026,27,Bruno Fernandes,32,Portugal,midfielder,Manchester United,5.0,0.0,0,0,0,0,0,0,0.0,0.0,0.0,2.0,0.0007462686567164179,0,0,1
+2026,28,Julián Quiñones,29,Mexico,forward,Al-Qadsiah,4.0,,0,0,0,0,0,0,0.0,,,2.0,0.0005970149253731343,0,0,1
+2026,29,Sadio Mané,34,Senegal,forward,Al Nassr,2.0,1.0,0,0,0,0,0,0,0.0,1.0,,,0.00029850746268656717,0,0,1
+2026,29,William Saliba,25,France,defender,Arsenal,2.0,1.0,0,0,0,0,0,0,0.0,1.0,5.0,4.0,0.00029850746268656717,0,0,1

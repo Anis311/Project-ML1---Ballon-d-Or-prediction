@@ -1,0 +1,163 @@
+name,player_id,tm_name,method
+Cristiano Ronaldo,8198,Cristiano Ronaldo,nom exact
+Lionel Messi,28003,Lionel Messi,nom exact
+Franck Ribéry,22068,Franck Ribéry,nom exact
+Zlatan Ibrahimović,3455,Zlatan Ibrahimović,nom exact
+Neymar,68290,Neymar,nom exact
+Andrés Iniesta,7600,Andrés Iniesta,nom exact
+Robin van Persie,4380,Robin van Persie,nom exact
+Arjen Robben,4360,Arjen Robben,nom exact
+Gareth Bale,39381,Gareth Bale,nom exact
+Andrea Pirlo,5817,Andrea Pirlo,nom exact
+Radamel Falcao,39152,Radamel Falcao,nom exact
+Yaya Touré,13091,Yaya Touré,nom exact
+Robert Lewandowski,38253,Robert Lewandowski,nom exact
+Philipp Lahm,2219,Philipp Lahm,nom exact
+Xavi,7607,Xavi,nom exact
+Mesut Özil,35664,Mesut Özil,nom exact
+Bastian Schweinsteiger,2514,Bastian Schweinsteiger,nom exact
+Thomas Müller,58358,Thomas Müller,nom exact
+Luis Suárez,44352,Luis Suárez,nom exact
+Edinson Cavani,48280,Edinson Cavani,nom exact
+Thiago Silva,29241,Thiago Silva,nom exact
+Eden Hazard,50202,Eden Hazard,nom exact
+Manuel Neuer,17259,Manuel Neuer,nom exact
+James Rodríguez,88103,James Rodríguez,nom exact
+Toni Kroos,31909,Toni Kroos,nom exact
+Ángel Di María,45320,Ángel Di María,nom exact
+Diego Costa,44779,Diego Costa,nom exact
+Mario Götze,74842,Mario Götze,nom exact
+Karim Benzema,18922,Karim Benzema,nom exact
+Javier Mascherano,19981,Javier Mascherano,nom exact
+Thibaut Courtois,108390,Thibaut Courtois,nom exact
+Paul Pogba,122153,Paul Pogba,nom exact
+Sergio Ramos,25557,Sergio Ramos,nom exact
+Alexis Sánchez,40433,Alexis Sánchez,nom exact
+Sergio Agüero,26399,Sergio Agüero,nom exact
+Arturo Vidal,37666,Arturo Vidal,nom exact
+Kevin De Bruyne,88755,Kevin De Bruyne,nom exact
+Ivan Rakitić,32467,Ivan Rakitic,nom exact
+Antoine Griezmann,125781,Antoine Griezmann,nom exact
+Riyad Mahrez,171424,Riyad Mahrez,nom exact
+Jamie Vardy,197838,Jamie Vardy,nom exact
+Gianluigi Buffon,5023,Gianluigi Buffon,nom exact
+Pepe,14132,Pepe,nom exact
+Pierre-Emerick Aubameyang,58864,Pierre-Emerick Aubameyang,nom exact
+Rui Patrício,45026,Rui Patrício,nom exact
+Luka Modrić,27992,Luka Modrić,nom exact
+Dimitri Payet,37647,Dimitri Payet,nom exact
+Paulo Dybala,206050,Paulo Dybala,nom exact
+Diego Godín,54928,Diego Godín,nom exact
+Gonzalo Higuaín,39153,Gonzalo Higuaín,nom exact
+Koke,74229,Koke,nom exact
+Hugo Lloris,17965,Hugo Lloris,nom exact
+Kylian Mbappé,342229,Kylian Mbappé,nom exact
+N'Golo Kanté,225083,N'Golo Kanté,nom exact
+Harry Kane,132098,Harry Kane,nom exact
+Isco,85288,Isco,nom exact
+Marcelo,52920,Marcelo,nom exact
+David de Gea,59377,David de Gea,nom exact
+Leonardo Bonucci,39983,Leonardo Bonucci,nom exact
+Sadio Mané,200512,Sadio Mané,nom exact
+Jan Oblak,121483,Jan Oblak,nom exact
+Mats Hummels,39728,Mats Hummels,nom exact
+Edin Džeko,28396,Edin Dzeko,nom exact
+Philippe Coutinho,80444,Philippe Coutinho,nom exact
+Dries Mertens,56416,Dries Mertens,nom exact
+Mohamed Salah,148455,Mohamed Salah,nom exact
+Raphaël Varane,164770,Raphaël Varane,nom exact
+Roberto Firmino,131789,Roberto Firmino,nom exact
+Alisson,105470,Alisson,nom exact
+Mario Mandžukić,34572,Mario Mandzukic,nom exact
+Virgil van Dijk,139208,Virgil van Dijk,nom exact
+Bernardo Silva,241641,Bernardo Silva,nom exact
+Frenkie de Jong,326330,Frenkie de Jong,nom exact
+Raheem Sterling,134425,Raheem Sterling,nom exact
+Matthijs de Ligt,326031,Matthijs de Ligt,nom exact
+Trent Alexander-Arnold,314353,Trent Alexander-Arnold,nom exact
+Dušan Tadić,36139,Dušan Tadić,nom exact
+Son Heung-min,91845,Heung-min Son,mots identiques
+Kalidou Koulibaly,93128,Kalidou Koulibaly,nom exact
+Marc-André ter Stegen,74857,Marc-André ter Stegen,nom exact
+Georginio Wijnaldum,49499,Georginio Wijnaldum,nom exact
+João Félix,462250,João Félix,nom exact
+Marquinhos,181767,Marquinhos,nom exact
+Donny van de Beek,288255,Donny van de Beek,nom exact
+Jorginho,102017,Jorginho,nom exact
+Gianluigi Donnarumma,315858,Gianluigi Donnarumma,nom exact
+Erling Haaland,418560,Erling Haaland,nom exact
+Romelu Lukaku,96341,Romelu Lukaku,nom exact
+Giorgio Chiellini,29260,Giorgio Chiellini,nom exact
+Simon Kjær,48859,Simon Kjær,nom exact
+Mason Mount,346483,Mason Mount,nom exact
+Bruno Fernandes,240306,Bruno Fernandes,nom exact
+Lautaro Martínez,406625,Lautaro Martínez,nom exact
+Pedri,683840,Pedri,nom exact
+Phil Foden,406635,Phil Foden,nom exact
+Gerard Moreno,177467,Gerard Moreno,nom exact
+Nicolò Barella,255942,Nicolò Barella,nom exact
+Rúben Dias,258004,Rúben Dias,nom exact
+Cesar Azpilicueta,57500,César Azpilicueta,nom exact
+Vinícius Júnior,371998,Vinicius Junior,nom exact
+Sébastien Haller,181375,Sébastien Haller,nom exact
+Fabinho,225693,Fabinho,nom exact
+Rafael Leão,357164,Rafael Leão,nom exact
+Casemiro,16306,Casemiro,nom exact
+Luis Díaz,480692,Luis Díaz,nom exact
+Dušan Vlahović,357498,Dušan Vlahović,nom exact
+João Cancelo,182712,João Cancelo,nom exact
+Joshua Kimmich,161056,Joshua Kimmich,nom exact
+Mike Maignan,182906,Mike Maignan,nom exact
+Christopher Nkunku,344381,Christopher Nkunku,nom exact
+Darwin Núñez,546543,Darwin Núñez,nom exact
+Antonio Rüdiger,86202,Antonio Rüdiger,nom exact
+Rodri,357565,Rodri,nom exact
+Julián Álvarez,576024,Julián Alvarez,nom exact
+Victor Osimhen,401923,Victor Osimhen,nom exact
+Yassine Bounou,207834,Yassine Bounou,nom exact
+İlkay Gündoğan,53622,İlkay Gündoğan,nom exact
+Emiliano Martínez,111873,Emiliano Martínez,nom exact
+Khvicha Kvaratskhelia,502670,Khvicha Kvaratskhelia,nom exact
+Jude Bellingham,581678,Jude Bellingham,nom exact
+Kim Min-jae,503482,Min-jae Kim,mots identiques
+André Onana,234509,André Onana,nom exact
+Bukayo Saka,433177,Bukayo Saka,nom exact
+Joško Gvardiol,475959,Josko Gvardiol,nom exact
+Jamal Musiala,580195,Jamal Musiala,nom exact
+Randal Kolo Muani,487969,Randal Kolo Muani,nom exact
+Martin Ødegaard,316264,Martin Ødegaard,nom exact
+Dani Carvajal,138927,Daniel Carvajal,nom proche (0.93)
+Lamine Yamal,937958,Lamine Yamal,nom exact
+Florian Wirtz,598577,Florian Wirtz,nom exact
+Dani Olmo,293385,Dani Olmo,nom exact
+Ademola Lookman,406040,Ademola Lookman,nom exact
+Nico Williams,709187,Nico Williams,nom exact
+Granit Xhaka,111455,Granit Xhaka,nom exact
+Federico Valverde,369081,Federico Valverde,nom exact
+Hakan Çalhanoğlu,126414,Hakan Çalhanoğlu,nom exact
+William Saliba,495666,William Saliba,nom exact
+Cole Palmer,568177,Cole Palmer,nom exact
+Declan Rice,357662,Declan Rice,nom exact
+Vitinha,487469,Vitinha,nom exact
+Álex Grimaldo,,,non trouvé
+Artem Dovbyk,343537,Artem Dovbyk,nom exact
+Ousmane Dembélé,288230,Ousmane Dembélé,nom exact
+Raphinha,411295,Raphinha,nom exact
+Achraf Hakimi,398073,Achraf Hakimi,nom exact
+Nuno Mendes,616341,Nuno Mendes,nom exact
+Désiré Doué,914562,Désiré Doué,nom exact
+Viktor Gyökeres,325443,Viktor Gyökeres,nom exact
+Scott McTominay,315969,Scott McTominay,nom exact
+João Neves,670681,João Neves,nom exact
+Serhou Guirassy,270541,Serhou Guirassy,nom exact
+Alexis Mac Allister,534033,Alexis Mac Allister,nom exact
+Fabián Ruiz,350219,Fabián Ruiz,nom exact
+Denzel Dumfries,321528,Denzel Dumfries,nom exact
+Michael Olise,566723,Michael Olise,nom exact
+Pau Cubarsí,962110,Pau Cubarsí,nom exact
+Ferran Torres,398184,Ferran Torres,nom exact
+Marc Cucurella,284857,Marc Cucurella,nom exact
+Willian Pacho,661171,Willian Pacho,nom exact
+Gabriel Magalhães,435338,Gabriel,mots inclus
+Dayot Upamecano,344695,Dayot Upamecano,nom exact
+Julián Quiñones,416090,Julián Quiñones,nom exact

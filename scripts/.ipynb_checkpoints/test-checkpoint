@@ -1,0 +1,9 @@
+import sys; sys.path.append("scripts")
+from pathlib import Path
+from build_rankings import load_rankings, load_trophies
+
+src = Path("ext/Ballon_d-Or")
+rk = load_rankings(src)
+tr = load_trophies(src)
+print(rk.shape, tr.shape)      # même nombre de lignes ?
+rk.head()
